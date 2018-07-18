@@ -1,8 +1,8 @@
-Origin: 19card
-Label: 19card
+Origin: 19card's Repo
+Label: 19card's fInaL repo
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: 19card's stolen cydia repo template
+Description: Moved from yourepo bc screw that
