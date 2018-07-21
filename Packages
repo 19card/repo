@@ -13,3 +13,18 @@ Description: Aperture Laboratories Logo for your resprings! You need MakeResprin
 Author: 19card <19cardtweaks@gmail.com>
 Name: Aperture Respring Logo
 
+Package: com.19card.audiotechnicarespringlogo
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 19card <19cardtweaks@gmail.com>
+Depends: com.wizages.bae, com.wizages.springchanger, com.anemonetheming.anemone
+Filename: ./debs/com.19card.aperturerespringlogo_1.3_iphoneos-arm.deb
+Size: 25786
+MD5sum: 4c324fc62a56f9df26f23e81d9083375
+SHA1: 3d19152441619c48530aecc968727ff69c685257
+SHA256: f6a735dc3fe8bc881f28320319b1c2a593a8e273c797734230440af0acad7617
+Section: Respring Logo
+Description: Aperture Laboratories Logo for your resprings! You need MakeRespringsGreatAgain for this to work.
+Author: 19card <19cardtweaks@gmail.com>
+Name: Aperture Respring Logo
+
