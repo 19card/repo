@@ -1,0 +1,10 @@
+Package: com.19card.aperturerespringlogo
+Name: Aperture Respring Logo
+Version: 1.3
+Architecture: iphoneos-arm
+Description: Aperture Laboratories Logo for your resprings! You need MakeRespringsGreatAgain for this to work.
+Author: 19card <19cardtweaks@gmail.com>
+Section: Respring Logo
+Depends: com.wizages.bae, com.wizages.springchanger, com.anemonetheming.anemone
+Maintainer: 19card <19cardtweaks@gmail.com>
+
