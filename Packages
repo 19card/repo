@@ -28,6 +28,81 @@ Description: For all the audiophiles out there!  You need MakeRespringsGreatAgai
 Author: 19card <19cardtweaks@gmail.com>
 Name: AudioTechnica Respring Logo
 
+Package: com.19card.guccirespringlogo
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 19card <19cardtweaks@gmail.com>
+Depends: com.wizages.bae, com.wizages.springchanger, com.anemonetheming.anemone
+Filename: ./debs/com.19card.guccirespringlogo_1.0_iphoneos-arm.deb
+Size: 138460
+MD5sum: acc488452172b7f630d8b7666a9f0380
+SHA1: 5cad91294c6817cebd8510278ddfc2901eb44139
+SHA256: 618e3b08750f81b4dbf8b891ed48ae0b1fa400d05ae4bfe5cc04812b9657a39c
+Section: Respring Logo
+Description: Got clout?  Get this respring logo to match your clout level! You need MakeRespringsGreatAgain and SpringChanger for this to work.
+Author: 19card <19cardtweaks@gmail.com>
+Name: Gucci Respring Logo
+
+Package: com.19card.nwarespringlogo
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 19card <19cardtweaks@gmail.com>
+Depends: com.wizages.bae, com.wizages.springchanger, com.anemonetheming.anemone
+Filename: ./debs/com.19card.nwarespringlogo_1.0_iphoneos-arm.deb
+Size: 59028
+MD5sum: b66447f4afca7298def043368dfc4351
+SHA1: 834edff3aebccbafe9c4ddf2cb0d85c8255c48eb
+SHA256: 61df89fdbe120e357794a1e57a273e24bcc0c70b57b82f2f44dee403a96a8a1c
+Section: Respring Logo
+Description: Are you a person with attitude?  Get this respring logo! You need MakeRespringsGreatAgain and SpringChanger for this to work.
+Author: 19card <19cardtweaks@gmail.com>
+Name: NWA Respring Logo
+
+Package: com.19card.okrespringlogo
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 19card <19cardtweaks@gmail.com>
+Depends: com.wizages.bae, com.wizages.springchanger, com.anemonetheming.anemone
+Filename: ./debs/com.19card.okrespringlogo_1.0_iphoneos-arm.deb
+Size: 219036
+MD5sum: 99ad547872abbe34661c581bed39b93d
+SHA1: 7d34ba987578c74eab837ed8e7cf704db178ce57
+SHA256: 3c06c65f7ccd9b67d670e912541b792dfa15b96e93aec895fc8b485b05e853d7
+Section: Respring Logo
+Description: Gotcha dude! You need MakeRespringsGreatAgain and SpringChanger for this to work.
+Author: 19card <19cardtweaks@gmail.com>
+Name: OK Respring Logo
+
+Package: com.19card.shrekrespringlogo
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 19card <19cardtweaks@gmail.com>
+Depends: com.wizages.bae, com.wizages.springchanger, com.anemonetheming.anemone
+Filename: ./debs/com.19card.shrekrespringlogo_1.0_iphoneos-arm.deb
+Size: 130968
+MD5sum: f258f748de2227897ea2983bee4be367
+SHA1: 0711c94aaf83ca0bbdf0f677735f47b8df398172
+SHA256: 9ade3ae239d269c4523f6fb4d9db1da58feb084b5a71190e3023c1653ae9c25a
+Section: Respring Logo
+Description: Did somebody tell you the world was gonna roll you, and that you weren't the sharpest tool in the shed? You need MakeRespringsGreatAgain for this to work.
+Author: 19card <19cardtweaks@gmail.com>
+Name: Shrek Respring Logo
+
+Package: com.19card.spinnerrespringlogo
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 19card <19cardtweaks@gmail.com>
+Depends: com.wizages.bae, com.wizages.springchanger, com.anemonetheming.anemone
+Filename: ./debs/com.19card.spinnerrespringlogo_1.0_iphoneos-arm.deb
+Size: 79002
+MD5sum: e4b6e8d8438b4c2467f773969c0b1d0a
+SHA1: b6c41ae94d7a16a9fbc42f968a27b4af35725f46
+SHA256: 93843d53920d58a8c0bd9802fde91c7e17fa86b98404d076c9291268f38bf004
+Section: Respring Logo
+Description: Wanna trick yourself into thinking your phone is frozen?  Get this respring logo! You need MakeRespringsGreatAgain for this to work.
+Author: 19card <19cardtweaks@gmail.com>
+Name: Spinner Respring Logo
+
 Package: com.yourepo.19card.commedesgarconsrespringlogo
 Version: 1.0
 Architecture: iphoneos-arm
