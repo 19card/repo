@@ -1,0 +1,10 @@
+Package: com.19card.commedesgarconsrespringlogo
+Name: Comme Des Garcons Respring Logo
+Version: 1.0
+Architecture: iphoneos-arm
+Description: For the hypebeast!  You need MakeRespringsGreatAgain and Anemone(to apply it).   SpringChanger is optional.
+Author: 19card <19cardtweaks@gmail.com>
+Section: Respring Logo
+Depends: com.wizages.bae, com.anemonetheming.anemone
+Maintainer: 19card <19cardtweaks@gmail.com>
+

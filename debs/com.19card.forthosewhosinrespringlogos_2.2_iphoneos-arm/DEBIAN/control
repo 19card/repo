@@ -1,0 +1,10 @@
+Package: com.19card.forthosewhosinrespringlogos
+Name: For Those Who Sin Respring Logos
+Version: 2.2
+Architecture: iphoneos-arm
+Description: For Those Who Sin Respring Logos, you need MakeRespringsGreatAgain and SpringChanger for this to work. Might have to use SpringChanger to change background color to like grey or something.
+Author: 19card <19cardtweaks@gmail.com>
+Section: Respring Logo
+Depends: com.wizages.bae, com.wizages.springchanger, com.anemonetheming.anemone
+Maintainer: 19card <19cardtweaks@gmail.com>
+

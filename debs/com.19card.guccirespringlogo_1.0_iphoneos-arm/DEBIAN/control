@@ -1,0 +1,10 @@
+Package: com.19card.guccirespringlogo
+Name: Gucci Respring Logo
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Got clout?  Get this respring logo to match your clout level! You need MakeRespringsGreatAgain and SpringChanger for this to work.
+Author: 19card <19cardtweaks@gmail.com>
+Section: Respring Logo
+Depends: com.wizages.bae, com.wizages.springchanger, com.anemonetheming.anemone
+Maintainer: 19card <19cardtweaks@gmail.com>
+

@@ -1,0 +1,10 @@
+Package: com.19card.howardrespringlogo
+Name: Howard the Alien Respring Logo
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Want some alien to break it down?  Then this is the respring logo for you! You need MakeRespringsGreatAgain and SpringChanger for this to work!
+Author: 19card <19cardtweaks@gmail.com>
+Section: Respring Logo
+Depends: com.wizages.bae, com.anemonetheming.anemone, com.wizages.springchanger
+Maintainer: 19card <19cardtweaks@gmail.com>
+

@@ -1,0 +1,10 @@
+Package: com.19card.minionthanosrespringlogo
+Name: Minion Thanos Respring Logo
+Version: 1.0
+Architecture: iphoneos-arm
+Description: For all the memers out there!  You need MakeRespringsGreatAgain and Anemone(to apply it) for this to work!
+Author: 19card <19cardtweaks@gmail.com>
+Section: Respring Logo
+Depends: com.wizages.bae, com.anemonetheming.anemone
+Maintainer: 19card <19cardtweaks@gmail.com>
+
