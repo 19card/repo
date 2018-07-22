@@ -43,6 +43,21 @@ Description: Got clout?  Get this respring logo to match your clout level! You n
 Author: 19card <19cardtweaks@gmail.com>
 Name: Gucci Respring Logo
 
+Package: com.19card.howardrespringlogo
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 19card <19cardtweaks@gmail.com>
+Depends: com.wizages.bae, com.anemonetheming.anemone, com.wizages.springchanger
+Filename: ./debs/com.19card.howardrespringlogo_1.0_iphoneos-arm.deb
+Size: 100558
+MD5sum: 6ea2001bd528839e46a215dd9f879314
+SHA1: 9e0682f61c91083ab7eef8f61e0b87f0e21034e4
+SHA256: 85e511d7e79a0d73e1cfb61060a615b50bbf849f82e1e892f8c6e40a1f351614
+Section: Respring Logo
+Description: Want some alien to break it down?  Then this is the respring logo for you! You need MakeRespringsGreatAgain and SpringChanger for this to work!
+Author: 19card <19cardtweaks@gmail.com>
+Name: Howard the Alien Respring Logo
+
 Package: com.19card.nwarespringlogo
 Version: 1.0
 Architecture: iphoneos-arm
@@ -223,6 +238,21 @@ Description: For the Subie enthusiast who wants the Subaru logo as their resprin
 Author: 19card <19cardtweaks@gmail.com>
 Name: Subaru Respring Logo
 
+Package: com.yourepo.19card.thonkrespringlogo
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 19card <19cardtweaks@gmail.com>
+Depends: com.wizages.bae, com.anemonetheming.anemone, com.wizages.springchanger
+Filename: ./debs/com.19card.thonkrespringlogo_1.0_iphoneos-arm.deb
+Size: 61022
+MD5sum: 2b5052fe1d7ee8af87006a14a5b9c98d
+SHA1: a273ca13c29ba75f9126facfcf740ffa9a8eecc8
+SHA256: f131025890265c3317ce0b69639f73c4ee53735e0c8cb592effd57af738e819d
+Section: Respring Logo
+Description: HMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.........    You need MakeRespringsGreatAgain and SpringChanger for this to work!
+Author: 19card <19cardtweaks@gmail.com>
+Name: Thonk Respring Logo
+
 Package: com.yourepo.19card.vlonerespringlogo
 Version: 1.1
 Architecture: iphoneos-arm
@@ -239,17 +269,17 @@ Author: 19card <19cardtweaks@gmail.com>
 Name: VLONE Respring Logo
 
 Package: com.yourepo.19card.whitefoxrespringlogo
-Version: 1.0
+Version: 2.0
 Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
-Depends: com.wizages.bae, com.anemonetheming.anemone
-Filename: ./debs/com.19card.whitefoxrespringlogo_1.0_iphoneos-arm.deb
-Size: 220874
-MD5sum: 1e1b9595883bf7c63317b8128633c3e7
-SHA1: 3d82f32d2edebe90f05dbe8afd1159f7b21a63c7
-SHA256: 527b7c00398b684f4e9d772b3185839521887800964c3d7977abeaf81191aab2
+Depends: com.wizages.bae, com.anemonetheming.anemone, com.wizages.springchanger
+Filename: ./debs/com.19card.whitefoxrespringlogo_2.0_iphoneos-arm.deb
+Size: 217640
+MD5sum: c9b2203ad4eddbfb407ffa0369425120
+SHA1: 8ce80a7183c49ee1435e1ed9f8d7332cf8d88f82
+SHA256: 5e1d8e685e5983ecdbcdcf5bea38c2fdf8bf1d9c7a1ed0d5e9a8f61571b7df68
 Section: Respring Logo
-Description: Oh? A white fox as your respring logo?
+Description: Do you like Doges?  Then this is the respring logo for you!  You need MakeRespringsGreatAgain and SpringChanger for this to work!
 Author: 19card <19cardtweaks@gmail.com>
 Name: White Fox Respring Logo
 
