@@ -274,12 +274,12 @@ Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.wizages.bae, com.anemonetheming.anemone, com.wizages.springchanger
 Filename: ./debs/com.19card.whitefoxrespringlogo_2.0_iphoneos-arm.deb
-Size: 217640
-MD5sum: c9b2203ad4eddbfb407ffa0369425120
-SHA1: 8ce80a7183c49ee1435e1ed9f8d7332cf8d88f82
-SHA256: 5e1d8e685e5983ecdbcdcf5bea38c2fdf8bf1d9c7a1ed0d5e9a8f61571b7df68
+Size: 217616
+MD5sum: 816a6ef2b191142ef55b342dbec89f5b
+SHA1: ccfb0a9aadafc67fbc1b48a9eda404cd9059cfff
+SHA256: 8bc6e16f170117e8c02b869ece56c3aa3339051c482db0f485af3d980eb4be6b
 Section: Respring Logo
-Description: Do you like Doges?  Then this is the respring logo for you!  You need MakeRespringsGreatAgain and SpringChanger for this to work!
+Description: A LoneFox. ;)  You need MakeRespringsGreatAgain and SpringChanger for this to work!
 Author: 19card <19cardtweaks@gmail.com>
 Name: White Fox Respring Logo
 
