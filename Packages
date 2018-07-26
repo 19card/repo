@@ -43,6 +43,21 @@ Description: For the hypebeast!  You need MakeRespringsGreatAgain and Anemone(to
 Author: 19card <19cardtweaks@gmail.com>
 Name: Comme Des Garcons Respring Logo
 
+Package: com.19card.deadmacrespringlogo
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 19card <19cardtweaks@gmail.com>
+Depends: com.wizages.bae, com.wizages.springchanger, com.anemonetheming.anemone
+Filename: ./debs/com.19card.deadmacrespringlogo_1.0_iphoneos-arm.deb
+Size: 32614
+MD5sum: 900ff9c1aa32ab59ec0f86af805ea2c6
+SHA1: 7ee546dc0f7343d4c75328555d87ffbb7cc546cc
+SHA256: 7e0b1156cbe417436ff02d8c39bb33774b18d6b323fb78520d356a874f82fe82
+Section: Respring Logo
+Description: Want the Dead Mac as your respring logo?  Here ya go!  You need MakeRespringsGreatAgain and SpringChanger for this to work.
+Author: 19card <19cardtweaks@gmail.com>
+Name: Dead Mac Respring Logo
+
 Package: com.19card.electrav2respringlogo
 Version: 1.2
 Architecture: iphoneos-arm
