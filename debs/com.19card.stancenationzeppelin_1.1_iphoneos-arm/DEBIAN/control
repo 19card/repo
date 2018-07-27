@@ -1,0 +1,10 @@
+Package: com.19card.stancenationzeppelin
+Name: StanceNation Zeppelin Logo
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Like the stance life?  Then get this Zeppelin logo to show it!  You need Zeppelin for this to work!
+Author: 19card <19cardtweaks@gmail.com>
+Section: Addons (Zeppelin)
+Depends: com.alexzielenski.zeppelin
+Maintainer: 19card <19cardtweaks@gmail.com>
+
