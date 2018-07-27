@@ -43,6 +43,21 @@ Description: For the hypebeast!  You need MakeRespringsGreatAgain and Anemone(to
 Author: 19card <19cardtweaks@gmail.com>
 Name: Comme Des Garcons Respring Logo
 
+Package: com.19card.csgorespringlogo
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 19card <19cardtweaks@gmail.com>
+Depends: com.wizages.bae, com.anemonetheming.anemone
+Filename: ./debs/com.19card.csogrespringlogo_1.0_iphoneos-arm.deb
+Size: 78598
+MD5sum: 85b8d4bffcb69ceccfeb2fc090392ff0
+SHA1: 2fbbbf479fc49e909edb54765e56ee88d228b677
+SHA256: b92d0521d3fa38c446be2906464eea287a06e0b28141f701fe2ebce09f321945
+Section: Respring Logo
+Description: Requested by someone I know IRL. :\  You need MakeRespringsGreatAgain and Anemone(to apply it).   SpringChanger is optional.
+Author: 19card <19cardtweaks@gmail.com>
+Name: CSGO Respring Logo
+
 Package: com.19card.deadmacrespringlogo
 Version: 1.0
 Architecture: iphoneos-arm
