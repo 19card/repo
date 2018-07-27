@@ -223,6 +223,21 @@ Description: Wanna trick yourself into thinking your phone is frozen?  Get this 
 Author: 19card <19cardtweaks@gmail.com>
 Name: Spinner Respring Logo
 
+Package: com.19card.stancenationzeppelin
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 19card <19cardtweaks@gmail.com>
+Depends: com.alexzielenski.zeppelin
+Filename: ./debs/com.19card.stancenationzeppelin_1.0_iphoneos-arm.deb
+Size: 4206
+MD5sum: 915466c4f0e185b37d59ebb585793563
+SHA1: d3ba5ee142e8f3e47aa1e42417ff523b14a0da93
+SHA256: 252371c705e9ac9cfb85931c9dd412cd9206e65bae4a14d8ec09ed4d9cc9c322
+Section: Addons (Zeppelin)
+Description: Like the stance life?  Then get this Zeppelin logo to show it!  You need Zeppelin for this to work!
+Author: 19card <19cardtweaks@gmail.com>
+Name: StanceNation Zeppelin Logo
+
 Package: com.19card.subarurespringlogo
 Version: 1.3
 Architecture: iphoneos-arm
