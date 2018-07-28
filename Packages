@@ -1,13 +1,13 @@
 Package: com.19card.44gravitizeppelin
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.alexzielenski.zeppelin
-Filename: ./debs/com.19card.44gravitizeppelin_1.0_iphoneos-arm.deb
-Size: 3732
-MD5sum: 6e2ba21e82c55fe4fe56e0cefa80626d
-SHA1: 56ebeab84bf7d1fdf62b99343724366293950fce
-SHA256: d07ebabb803840816936f16d4cfb4139a7f34228bb547a979898e94d98245232
+Filename: ./debs/com.19card.44gravitizeppelin_1.1_iphoneos-arm.deb
+Size: 3878
+MD5sum: 1dc767a49dd0420271692e77a5ba835d
+SHA1: 13331dfd5fe1d1f144056bd915067c020ec05f1d
+SHA256: 2d0e74ab83b4a69d064b47d6b80459c7afed0a1528b0ac917148e175651928e2
 Section: Addons (Zeppelin)
 Description: Know about the startup by two highschool seniors?  Get this logo to show it!  You need Zeppelin for this to work!
 Author: 19card <19cardtweaks@gmail.com>
