@@ -239,15 +239,15 @@ Author: 19card <19cardtweaks@gmail.com>
 Name: Spinner Respring Logo
 
 Package: com.19card.stancenationzeppelin
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.alexzielenski.zeppelin
-Filename: ./debs/com.19card.stancenationzeppelin_1.1_iphoneos-arm.deb
+Filename: ./debs/com.19card.stancenationzeppelin_1.2_iphoneos-arm.deb
 Size: 4246
-MD5sum: 7abd4a7dfb2937ebefd4102ff4684737
-SHA1: bf85e17cae52997d5987b8ec5b7e3546798f6b28
-SHA256: 9002e43fdf70c23fe2329cbef0d87053a24c2e3bbe9a76c4f9b9e8010d0cf3d3
+MD5sum: 292bb2654e7085943ad0e6b7de09a53e
+SHA1: b07d5a50981836d1b85660055f306e7a2a449322
+SHA256: ca91785761c2f703abcdbef3bb7bf1a1f38a7a5d4100f4ff28e3212830d0c124
 Section: Addons (Zeppelin)
 Description: Like the stance life?  Then get this Zeppelin logo to show it!  You need Zeppelin for this to work!
 Author: 19card <19cardtweaks@gmail.com>
