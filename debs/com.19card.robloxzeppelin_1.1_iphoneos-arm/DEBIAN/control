@@ -1,0 +1,10 @@
+Package: com.19card.robloxzeppelin
+Name: ROBLOX Zeppelin Logo
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Yes, a ROBLOX Zeppelin Logo.  You only get the O though, not the whole word.  You need Zeppelin for this to work!
+Author: 19card <19cardtweaks@gmail.com>
+Section: Addons (Zeppelin)
+Depends: com.alexzielenski.zeppelin
+Maintainer: 19card <19cardtweaks@gmail.com>
+

@@ -214,10 +214,10 @@ Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.alexzielenski.zeppelin
 Filename: ./debs/com.19card.robloxzeppelin_1.1_iphoneos-arm.deb
-Size: 2810
-MD5sum: 8ac2436f7378f0af5a7ff55132ab7db5
-SHA1: 6e62d40c77c7ab9b3140b2944f07a03022849a6b
-SHA256: da7522e4ab38ac55b9c9e375b5b6b892086c20bded1203eba933bc7aa85b66d0
+Size: 2806
+MD5sum: 44232557bf29660177574bf2956e6fbc
+SHA1: b4839bdcc387e2e3db5252c8abf91dfb4a543a0a
+SHA256: 9a7e7da4d05809ce797f640d96adc3bf68a31ff4862e88b46fbfbdd406edd750
 Section: Addons (Zeppelin)
 Description: Yes, a ROBLOX Zeppelin Logo.  You only get the O though, not the whole word.  You need Zeppelin for this to work!
 Author: 19card <19cardtweaks@gmail.com>
