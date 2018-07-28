@@ -208,6 +208,21 @@ Description: Get the OneDrop Yoyo company logo as your respring logo!
 Author: 19card <19cardtweaks@gmail.com>
 Name: OneDrop Respring Logo
 
+Package: com.19card.robloxzeppelin
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 19card <19cardtweaks@gmail.com>
+Depends: com.alexzielenski.zeppelin
+Filename: ./debs/com.19card.robloxzeppelin_1.0_iphoneos-arm.deb
+Size: 2704
+MD5sum: dc18c41a18a5d38edc6950927d6c951e
+SHA1: 9403e6610fa5234b258c9aa0f655cb0998c1db95
+SHA256: 9731c7f0ee7522409f04442d1f07c3eb33c76732a098ba49f21f14f10966581f
+Section: Addons (Zeppelin)
+Description: Yes, a ROBLOX Zeppelin Logo.  You only get the O though, not the whole word.  You need Zeppelin for this to work!
+Author: 19card <19cardtweaks@gmail.com>
+Name: ROBLOX Zeppelin Logo
+
 Package: com.19card.shrekrespringlogo
 Version: 1.0
 Architecture: iphoneos-arm
@@ -222,6 +237,21 @@ Section: Respring Logo
 Description: Did somebody tell you the world was gonna roll you, and that you weren't the sharpest tool in the shed? You need MakeRespringsGreatAgain for this to work.
 Author: 19card <19cardtweaks@gmail.com>
 Name: Shrek Respring Logo
+
+Package: com.19card.speedhunterszeppelin
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 19card <19cardtweaks@gmail.com>
+Depends: com.alexzielenski.zeppelin
+Filename: ./debs/com.19card.speedhunterszeppelin_1.0_iphoneos-arm.deb
+Size: 6012
+MD5sum: 0a76fc1c358102607daf69cf87dd18e6
+SHA1: 44324691724b1a6c52c815eff6bf5ddb3a4f1dec
+SHA256: 1d425470ef197d571d10887bc0e55def1bddb93fe1d149642a94bcf3468626a2
+Section: Addons (Zeppelin)
+Description: Are you a speedhunter in need of a Zeppelin logo to match your passion?  Here ya go!  You need Zeppelin for this to work!
+Author: 19card <19cardtweaks@gmail.com>
+Name: Speedhunters Zeppelin Logo
 
 Package: com.19card.spinnerrespringlogo
 Version: 1.0
