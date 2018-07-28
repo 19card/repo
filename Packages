@@ -209,15 +209,15 @@ Author: 19card <19cardtweaks@gmail.com>
 Name: OneDrop Respring Logo
 
 Package: com.19card.robloxzeppelin
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.alexzielenski.zeppelin
-Filename: ./debs/com.19card.robloxzeppelin_1.0_iphoneos-arm.deb
-Size: 2704
-MD5sum: dc18c41a18a5d38edc6950927d6c951e
-SHA1: 9403e6610fa5234b258c9aa0f655cb0998c1db95
-SHA256: 9731c7f0ee7522409f04442d1f07c3eb33c76732a098ba49f21f14f10966581f
+Filename: ./debs/com.19card.robloxzeppelin_1.1_iphoneos-arm.deb
+Size: 2810
+MD5sum: 8ac2436f7378f0af5a7ff55132ab7db5
+SHA1: 6e62d40c77c7ab9b3140b2944f07a03022849a6b
+SHA256: da7522e4ab38ac55b9c9e375b5b6b892086c20bded1203eba933bc7aa85b66d0
 Section: Addons (Zeppelin)
 Description: Yes, a ROBLOX Zeppelin Logo.  You only get the O though, not the whole word.  You need Zeppelin for this to work!
 Author: 19card <19cardtweaks@gmail.com>
@@ -269,15 +269,15 @@ Author: 19card <19cardtweaks@gmail.com>
 Name: Spinner Respring Logo
 
 Package: com.19card.stancenationzeppelin
-Version: 1.2
+Version: 1.4
 Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.alexzielenski.zeppelin
-Filename: ./debs/com.19card.stancenationzeppelin_1.2_iphoneos-arm.deb
-Size: 4246
-MD5sum: 292bb2654e7085943ad0e6b7de09a53e
-SHA1: b07d5a50981836d1b85660055f306e7a2a449322
-SHA256: ca91785761c2f703abcdbef3bb7bf1a1f38a7a5d4100f4ff28e3212830d0c124
+Filename: ./debs/com.19card.stancenationzeppelin_1.4_iphoneos-arm.deb
+Size: 4058
+MD5sum: ab7eaa10726421c8b5280caf55f5d7ce
+SHA1: 1f96ea867c72d1a7c043673f40fa8e1abec4146b
+SHA256: bc1d453688f5b2c7b6b846c25b02c6b6a373e2a061f7dd1e35248ab079947361
 Section: Addons (Zeppelin)
 Description: Like the stance life?  Then get this Zeppelin logo to show it!  You need Zeppelin for this to work!
 Author: 19card <19cardtweaks@gmail.com>
