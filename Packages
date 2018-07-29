@@ -73,6 +73,21 @@ Description: "Sometimes the best view isn't from the summit."  You need MakeResp
 Author: 19card <19cardtweaks@gmail.com>
 Name: Basecamp Yoyo Respring Logo
 
+Package: com.19card.classicmazdarespringlogo
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 19card <19cardtweaks@gmail.com>
+Depends: com.wizages.bae, com.anemonetheming.anemone, com.wizages.springchanger
+Filename: ./debs/com.19card.classicmazdarespringlogo_1.0_iphoneos-arm.deb
+Size: 79040
+MD5sum: 61e5f32f79dbeba89fb77511d92c260e
+SHA1: 54ebcdb6787e4c4936143565fcc145b3db24304d
+SHA256: f98b1a6f099ed22fdd89887da3979b66383d363541556f39c9b639bb5dd2d993
+Section: Respring Logo
+Description: Are you a Mazda Fan?  Get these logos to match your passion!  You need MakeRespringsGreatAgain and Anemone(to apply it) for this to work!
+Author: 19card <19cardtweaks@gmail.com>
+Name: Classic Mazda Logo Respring Pack
+
 Package: com.19card.commedesgarconsrespringlogo
 Version: 1.0
 Architecture: iphoneos-arm
@@ -207,6 +222,21 @@ Section: Respring Logo
 Description: Only old people will know who this is.  Or people who like Ghostemane.  You need MakeRespringsGreatAgain and Anemone(to apply it) for this to work!
 Author: 19card <19cardtweaks@gmail.com>
 Name: Koko the Clown Respring Logo
+
+Package: com.19card.mazdazeppelin
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 19card <19cardtweaks@gmail.com>
+Depends: com.wizages.bae, com.anemonetheming.anemone, com.wizages.springchanger
+Filename: ./debs/com.19card.mazdazeppelinlogo_1.0_iphoneos-arm.deb
+Size: 4722
+MD5sum: 5ad2179820f3aaf2a29c765457170cf9
+SHA1: 6a5e75de8f77646cec6aa6f36c211f9dfae2f6a2
+SHA256: 1b4a889cabdc2e5cd15a9a34af0d2d8526744312168157a75b41cc702df5e081
+Section: Respring Logo
+Description: This Zeppelin logo matches well with the respring logo!  You need MakeRespringsGreatAgain and Anemone(to apply it) for this to work!
+Author: 19card <19cardtweaks@gmail.com>
+Name: Classic Mazda Zeppelin Logo
 
 Package: com.19card.minionthanosrespringlogo
 Version: 1.0
@@ -357,6 +387,21 @@ Section: Respring Logo
 Description: For the Subie enthusiast who wants the Subaru logo as their respring logo!
 Author: 19card <19cardtweaks@gmail.com>
 Name: Subaru Respring Logo
+
+Package: com.19card.vectormiatarespringlogo
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 19card <19cardtweaks@gmail.com>
+Depends: com.wizages.bae, com.anemonetheming.anemone, com.wizages.springchanger
+Filename: ./debs/com.19card.vectormiataprespringlogo_1.0_iphoneos-arm.deb
+Size: 97100
+MD5sum: 10a6cf83fcba0f2ae1f60cf58d62e211
+SHA1: ef61ac7a5645ab5500162bc77aa07af680559aa8
+SHA256: 76a348941408ac9434581b6fc74c1e178803aca4915e5b71d64f5ddba4883a6c
+Section: Respring Logo
+Description: If you like the NA Miata, get this logo!  You need MakeRespringsGreatAgain and Anemone(to apply it) for this to work!
+Author: 19card <19cardtweaks@gmail.com>
+Name: Vector Miata Respring Logo
 
 Package: com.19card.vlonerespringlogo
 Version: 1.1
