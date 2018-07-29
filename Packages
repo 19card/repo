@@ -58,6 +58,21 @@ Description: For all the audiophiles out there!  You need MakeRespringsGreatAgai
 Author: 19card <19cardtweaks@gmail.com>
 Name: AudioTechnica Respring Logo
 
+Package: com.19card.basecamprespringlogo
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 19card <19cardtweaks@gmail.com>
+Depends: com.wizages.bae, com.anemonetheming.anemone, com.wizages.springchanger
+Filename: ./debs/com.19card.basecamprespringlogo_1.0_iphoneos-arm.deb
+Size: 81774
+MD5sum: 34cd7fadae73c9bd930823b8e8120232
+SHA1: e1bc251a8def6d0642c46a974d8ad6043b7d3325
+SHA256: 921fb2ca8f1de9ced3ae6deaf65c92f0cd406c6bdb593ccfe5b047b85ac366ca
+Section: Respring Logo
+Description: "Sometimes the best view isn't from the summit."  You need MakeRespringsGreatAgain and Anemone(to apply it) for this to work!
+Author: 19card <19cardtweaks@gmail.com>
+Name: Basecamp Yoyo Respring Logo
+
 Package: com.19card.commedesgarconsrespringlogo
 Version: 1.0
 Architecture: iphoneos-arm
