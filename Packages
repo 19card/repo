@@ -13,6 +13,21 @@ Description: Know about the startup by two highschool seniors?  Get this logo to
 Author: 19card <19cardtweaks@gmail.com>
 Name: 44graviti Zeppelin Logo
 
+Package: com.19card.animatedspinner
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 19card <19cardtweaks@gmail.com>
+Depends: com.wizages.bae, com.anemonetheming.anemone, com.wizages.springchanger
+Filename: ./debs/com.19card.animatedspinner_1.0_iphoneos-arm.deb
+Size: 638588
+MD5sum: be766c1da36f5cff69d5ece722d700a3
+SHA1: 0be0dd394a1f0c0238fa61d7df58360a181cbeea
+SHA256: 514ce07519098f845d3d97fccc6b1422546d3b48956579be259d6944b96e745e
+Section: Respring Logo
+Description: Want an animated spinning wheel of death?  Here ya go!  You need MakeRespringsGreatAgain and Anemone(to apply it) for this to work!
+Author: 19card <19cardtweaks@gmail.com>
+Name: Animated Spinner Respring Logo
+
 Package: com.19card.aperturerespringlogo
 Version: 1.3
 Architecture: iphoneos-arm
@@ -162,6 +177,21 @@ Section: Respring Logo
 Description: Want some alien to break it down?  Then this is the respring logo for you! You need MakeRespringsGreatAgain and SpringChanger for this to work!
 Author: 19card <19cardtweaks@gmail.com>
 Name: Howard the Alien Respring Logo
+
+Package: com.19card.kokorespringlogo
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 19card <19cardtweaks@gmail.com>
+Depends: com.wizages.bae, com.anemonetheming.anemone, com.wizages.springchanger
+Filename: ./debs/com.19card.kokorespringlogo_1.0_iphoneos-arm.deb
+Size: 118052
+MD5sum: 4cf58a3999fa09f37ec50dbe13692634
+SHA1: 05cef9f7cca655a17b15aca99b1f2f9524389e8b
+SHA256: 6a4a8feb738fb7cbaa7fce72103cad0a023c286dd54d0e23134c19cc478ddec9
+Section: Respring Logo
+Description: Only old people will know who this is.  Or people who like Ghostemane.  You need MakeRespringsGreatAgain and Anemone(to apply it) for this to work!
+Author: 19card <19cardtweaks@gmail.com>
+Name: Koko the Clown Respring Logo
 
 Package: com.19card.minionthanosrespringlogo
 Version: 1.0
