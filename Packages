@@ -227,14 +227,14 @@ Package: com.19card.mazdazeppelin
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
-Depends: com.wizages.bae, com.anemonetheming.anemone, com.wizages.springchanger
+Depends: com.alexzielenski.zeppelin
 Filename: ./debs/com.19card.mazdazeppelinlogo_1.0_iphoneos-arm.deb
-Size: 4722
-MD5sum: 5ad2179820f3aaf2a29c765457170cf9
-SHA1: 6a5e75de8f77646cec6aa6f36c211f9dfae2f6a2
-SHA256: 1b4a889cabdc2e5cd15a9a34af0d2d8526744312168157a75b41cc702df5e081
-Section: Respring Logo
-Description: This Zeppelin logo matches well with the respring logo!  You need MakeRespringsGreatAgain and Anemone(to apply it) for this to work!
+Size: 4680
+MD5sum: 38df9e2859101ae1961fc9977d907007
+SHA1: 70ec794b06b10279144a319dc2ce543694fd456f
+SHA256: 1d5f8b7b68c112b8134a919774e5881e0ab4728895caac61b4334e9bbb86d5e5
+Section: Addons (Zeppelin)
+Description: This Zeppelin logo matches well with the respring logo!  You need Zeppelin for this to work!
 Author: 19card <19cardtweaks@gmail.com>
 Name: Classic Mazda Zeppelin Logo
 
@@ -327,6 +327,36 @@ Section: Respring Logo
 Description: Did somebody tell you the world was gonna roll you, and that you weren't the sharpest tool in the shed? You need MakeRespringsGreatAgain for this to work.
 Author: 19card <19cardtweaks@gmail.com>
 Name: Shrek Respring Logo
+
+Package: com.19card.shrugrespringlogo
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 19card <19cardtweaks@gmail.com>
+Depends: com.wizages.bae, com.anemonetheming.anemone, com.wizages.springchanger
+Filename: ./debs/com.19card.shrugrespringlogo_1.0_iphoneos-arm.deb
+Size: 34974
+MD5sum: 4d7dc824c684b664c89fb49e783e0f84
+SHA1: 3d4c173b4392cdf75b7f98183f0ddcd0f90b30e8
+SHA256: 502e38512e1cc19573935851563118124754b4854a9d1d827ad5f10bbf97a122
+Section: Respring Logo
+Description: ¯\_(ツ)_/¯.  You need MakeRespringsGreatAgain and Anemone(to apply it) for this to work!
+Author: 19card <19cardtweaks@gmail.com>
+Name: Shrug Respring Logo
+
+Package: com.19card.shrugzeppelin
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 19card <19cardtweaks@gmail.com>
+Depends: com.alexzielenski.zeppelin
+Filename: ./debs/com.19card.shrugzeppelinlogo_1.0_iphoneos-arm.deb
+Size: 6578
+MD5sum: a3aa555a7f2048782c239bfce610b203
+SHA1: 5f3b76ffb95038ac266f59e59abb35a7b9a4d5e3
+SHA256: c63f2599f9871b6e19c3a72c8ba98c8f896003ece185e5ac9ad3bb3e94f2b933
+Section: Addons (Zeppelin)
+Description: T¯\_(ツ)_/¯  You need Zeppelin for this to work!
+Author: 19card <19cardtweaks@gmail.com>
+Name: Shrug Zeppelin Logo
 
 Package: com.19card.speedhunterszeppelin
 Version: 1.0
