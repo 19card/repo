@@ -74,15 +74,15 @@ Author: 19card <19cardtweaks@gmail.com>
 Name: Basecamp Yoyo Respring Logo
 
 Package: com.19card.classicmazdarespringlogo
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.wizages.bae, com.anemonetheming.anemone, com.wizages.springchanger
-Filename: ./debs/com.19card.classicmazdarespringlogo_1.1_iphoneos-arm.deb
-Size: 75238
-MD5sum: ffa099a4861c4289bbe598c0273ab3fb
-SHA1: 68e945c00d51bd1c55fe055bbac7e4ee2515029c
-SHA256: ccb0884ed675d17f2332899c15cd1942d3c6123206139fd4997301b0d8cc1bff
+Filename: ./debs/com.19card.classicmazdarespringlogo_1.2_iphoneos-arm.deb
+Size: 73378
+MD5sum: e6e2b9ffbaeb5a14f1cd9caa6b9d6411
+SHA1: 3f77ee3df4191598ad28dd3adecc9d2f550bb255
+SHA256: 7584d5262ac0e253cc118d389e85418848d8fc0a579cc72ab25c225a1228f53c
 Section: Respring Logo
 Description: Are you a Mazda Fan?  Get these logos to match your passion!  You need MakeRespringsGreatAgain and Anemone(to apply it) for this to work!
 Author: 19card <19cardtweaks@gmail.com>
