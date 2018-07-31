@@ -329,32 +329,32 @@ Author: 19card <19cardtweaks@gmail.com>
 Name: Shrek Respring Logo
 
 Package: com.19card.shrugrespringlogo
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.wizages.bae, com.anemonetheming.anemone, com.wizages.springchanger
-Filename: ./debs/com.19card.shrugrespringlogo_1.0_iphoneos-arm.deb
-Size: 34974
-MD5sum: 4d7dc824c684b664c89fb49e783e0f84
-SHA1: 3d4c173b4392cdf75b7f98183f0ddcd0f90b30e8
-SHA256: 502e38512e1cc19573935851563118124754b4854a9d1d827ad5f10bbf97a122
+Filename: ./debs/com.19card.shrugrespringlogo_1.1_iphoneos-arm.deb
+Size: 34854
+MD5sum: 0023cd877a823d4a82eaa5645a8cccb7
+SHA1: 44b426ae2b8b59b71cbb68d3f594a0db7d070dfa
+SHA256: 38e9878ee528c30ccc579e411e11acf2e2d88b24e76c513de46abe7d519a3145
 Section: Respring Logo
 Description: ¯\_(ツ)_/¯.  You need MakeRespringsGreatAgain and Anemone(to apply it) for this to work!
 Author: 19card <19cardtweaks@gmail.com>
 Name: Shrug Respring Logo
 
 Package: com.19card.shrugzeppelin
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.alexzielenski.zeppelin
-Filename: ./debs/com.19card.shrugzeppelinlogo_1.0_iphoneos-arm.deb
-Size: 6578
-MD5sum: a3aa555a7f2048782c239bfce610b203
-SHA1: 5f3b76ffb95038ac266f59e59abb35a7b9a4d5e3
-SHA256: c63f2599f9871b6e19c3a72c8ba98c8f896003ece185e5ac9ad3bb3e94f2b933
+Filename: ./debs/com.19card.shrugzeppelinlogo_1.1_iphoneos-arm.deb
+Size: 6174
+MD5sum: a25d68cb66bf567647987ee730c0522c
+SHA1: 152a864c0c0029afec9de35279af00b6ed723ea3
+SHA256: dd42302ce7293137dd1632f89269559770013d85220edebd64ce2f5d5c1c06bd
 Section: Addons (Zeppelin)
-Description: T¯\_(ツ)_/¯  You need Zeppelin for this to work!
+Description: ¯\_(ツ)_/¯  You need Zeppelin for this to work!
 Author: 19card <19cardtweaks@gmail.com>
 Name: Shrug Zeppelin Logo
 
