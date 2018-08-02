@@ -298,6 +298,36 @@ Description: Get the OneDrop Yoyo company logo as your respring logo!
 Author: 19card <19cardtweaks@gmail.com>
 Name: OneDrop Respring Logo
 
+Package: com.19card.razerrespringlogo
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 19card <19cardtweaks@gmail.com>
+Depends: com.wizages.bae, com.anemonetheming.anemone, com.wizages.springchanger
+Filename: ./debs/com.19card.razerrespringlogo_1.0_iphoneos-arm.deb
+Size: 66734
+MD5sum: 79ee75db2bdb5ceb7e93e4362b1f43b1
+SHA1: 63d0b8d30d55d01b5a69c84e3ea326f83d608af8
+SHA256: 5a98600c1fc8a69eee273738d74619797bdfbfb4cb2dd37d9617a387a6663358
+Section: Respring Logo
+Description: For all the gamers out there!  You need MakeRespringsGreatAgain and Anemone(to apply it) for this to work!
+Author: 19card <19cardtweaks@gmail.com>
+Name: Razer Respring Logo
+
+Package: com.19card.razerzeppelin
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 19card <19cardtweaks@gmail.com>
+Depends: com.alexzielenski.zeppelin
+Filename: ./debs/com.19card.razerzeppelin_1.0_iphoneos-arm.deb
+Size: 2656
+MD5sum: 16fe67471f7a24c96116e3ffa699542a
+SHA1: 2bd1ef176ef8a1c1ace25a28f8bc95f5cf1a6830
+SHA256: 09d7cade1b2199c9c64e6e1c532b5f49b0174b2414fe6fa8d28f54fa19e7a611
+Section: Addons (Zeppelin)
+Description: For all the gamers out there!  You need Zeppelin for this to work!
+Author: 19card <19cardtweaks@gmail.com>
+Name: Razer Zeppelin Logo
+
 Package: com.19card.robloxzeppelin
 Version: 1.1
 Architecture: iphoneos-arm
