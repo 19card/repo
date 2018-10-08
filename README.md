@@ -1,2 +1,2 @@
 # 19card's repo
-Errr I'm fixing it right now, and as soon as I figure this out everything will work fine.
+I'm on the way to fixing this, just gonna add like 5 featured things.  IDK.
