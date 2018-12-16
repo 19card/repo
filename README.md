@@ -1,2 +1,3 @@
 # 19card's repo
-I'm on the way to fixing this, just gonna add like 5 featured things.  IDK.
+IF you want respring/Zeppelin icon requests, go to 19cardtweak.gq and click the Twitter page
+
