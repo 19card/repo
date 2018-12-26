@@ -209,15 +209,15 @@ Author: 19card <19cardtweaks@gmail.com>
 Name: Howard the Alien Respring Logo
 
 Package: com.19card.kokorespringlogo
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.wizages.bae, com.anemonetheming.anemone, com.wizages.springchanger
-Filename: ./debs/com.19card.kokorespringlogo_1.0_iphoneos-arm.deb
-Size: 118052
-MD5sum: 4cf58a3999fa09f37ec50dbe13692634
-SHA1: 05cef9f7cca655a17b15aca99b1f2f9524389e8b
-SHA256: 6a4a8feb738fb7cbaa7fce72103cad0a023c286dd54d0e23134c19cc478ddec9
+Filename: ./debs/com.19card.kokorespringlogo_1.1_iphoneos-arm.deb
+Size: 159700
+MD5sum: abc361235e9e957c57ce887bc2f2176f
+SHA1: 57db2b9e13e367aacde48fe39211d5f6464ebd74
+SHA256: 5e09681bee97434dd67311025530151d82df6ae39705ccc5201578d27f1cb4aa
 Section: Respring Logo
 Description: Only old people will know who this is.  Or people who like Ghostemane.  You need MakeRespringsGreatAgain and Anemone(to apply it) for this to work!
 Author: 19card <19cardtweaks@gmail.com>
