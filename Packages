@@ -298,6 +298,21 @@ Description: Get the OneDrop Yoyo company logo as your respring logo!
 Author: 19card <19cardtweaks@gmail.com>
 Name: OneDrop Respring Logo
 
+Package: com.19card.pewdsrespringlogo
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 19card <19cardtweaks@gmail.com>
+Depends: com.wizages.bae, com.anemonetheming.anemone, com.wizages.springchanger
+Filename: ./debs/com.19card.pewdsrespringlogo_1.0_iphoneos-arm.deb
+Size: 59368
+MD5sum: 1586475b38ba4c567b644353420c5dc3
+SHA1: 4c7498cb7cf116d4fb68928d8f59739328073860
+SHA256: d43c89ee3a05d6b7dcde3c030dbf95998187bcda62bb659b691d07a432871396
+Section: Respring Logo
+Description: I did my part!  Did you?  Install to get the brofist so you can do your part!.  You need MakeRespringsGreatAgain and Anemone(to apply it) for this to work!
+Author: 19card <19cardtweaks@gmail.com>
+Name: Pewds Respring Logo
+
 Package: com.19card.razerrespringlogo
 Version: 1.0
 Architecture: iphoneos-arm
@@ -492,6 +507,21 @@ Section: Respring Logo
 Description: A LoneFox. ;)  You need MakeRespringsGreatAgain and SpringChanger for this to work!
 Author: 19card <19cardtweaks@gmail.com>
 Name: White Fox Respring Logo
+
+Package: com.19card.ziptiezzeppelinlogo
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 19card <19cardtweaks@gmail.com>
+Depends: com.alexzielenski.zeppelin
+Filename: ./debs/com.19card.ziptiezzeppelinlogo_1.0_iphoneos-arm.deb
+Size: 3388
+MD5sum: 5c6729f2e2548dfc24a20d81bd7e6e88
+SHA1: 012266ac2d230388561e84a33f3fc55b018ba6a2
+SHA256: c27e7bda47f0e9ac433dc9d92db216debb6a50d4198c45b279ad80c19556d137
+Section: Addons (Zeppelin)
+Description: I doubt anyone on my repo likes cars.  This is just a car culture apparel brand.  You need Zeppelin for this to work!
+Author: 19card <19cardtweaks@gmail.com>
+Name: Ziptiez Zeppelin Logo
 
 Package: com.yourepo.19card.dogerespringlogo
 Version: 1.0
