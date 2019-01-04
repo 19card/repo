@@ -508,6 +508,21 @@ Description: A LoneFox. ;)  You need MakeRespringsGreatAgain and SpringChanger f
 Author: 19card <19cardtweaks@gmail.com>
 Name: White Fox Respring Logo
 
+Package: com.19card.ziptiezrespringlogo
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 19card <19cardtweaks@gmail.com>
+Depends: com.wizages.bae, com.anemonetheming.anemone, com.wizages.springchanger
+Filename: ./debs/com.19card.ziptiezrespringlogo_1.0_iphoneos-arm.deb
+Size: 44304
+MD5sum: 56557ed95e3f36b61a35e0c860b7406c
+SHA1: 436f49b2e09bad0059a23711f3ad66f28b701a64
+SHA256: 068068f140ffb6e9ba7985f643f3f4ed8d893f5ab8a84f98c457582516f7501c
+Section: Respring Logo
+Description: I like the logo, and the brand, that's why I made this.  You need MakeRespringsGreatAgain and Anemone(to apply it) for this to work!
+Author: 19card <19cardtweaks@gmail.com>
+Name: Ziptiez Respring Logo
+
 Package: com.19card.ziptiezzeppelinlogo
 Version: 1.0
 Architecture: iphoneos-arm
