@@ -3,7 +3,7 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.alexzielenski.zeppelin
-Filename: ./debs/com.19card.44gravitizeppelin_1.1_iphoneos-arm.deb
+Filename: ./debs//com.19card.44gravitizeppelin_1.1_iphoneos-arm.deb
 Size: 3878
 MD5sum: 1dc767a49dd0420271692e77a5ba835d
 SHA1: 13331dfd5fe1d1f144056bd915067c020ec05f1d
@@ -18,7 +18,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.wizages.bae, com.anemonetheming.anemone, com.wizages.springchanger
-Filename: ./debs/com.19card.animatedspinner_1.0_iphoneos-arm.deb
+Filename: ./debs//com.19card.animatedspinner_1.0_iphoneos-arm.deb
 Size: 638588
 MD5sum: be766c1da36f5cff69d5ece722d700a3
 SHA1: 0be0dd394a1f0c0238fa61d7df58360a181cbeea
@@ -33,7 +33,7 @@ Version: 1.3
 Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.wizages.bae, com.wizages.springchanger, com.anemonetheming.anemone
-Filename: ./debs/com.19card.aperturerespringlogo_1.3_iphoneos-arm.deb
+Filename: ./debs//com.19card.aperturerespringlogo_1.3_iphoneos-arm.deb
 Size: 25796
 MD5sum: 383fd16a7d41f763fe56273d7af9ab86
 SHA1: 8fab6c4032e18114be5b51f60ab765f7de79e262
@@ -48,7 +48,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.wizages.bae, com.anemonetheming.anemone, com.wizages.springchanger
-Filename: ./debs/com.19card.audiotechnicarespringlogo_1.0_iphoneos-arm.deb
+Filename: ./debs//com.19card.audiotechnicarespringlogo_1.0_iphoneos-arm.deb
 Size: 65048
 MD5sum: bf72ccd1737f0b4f199957d5e5e487f4
 SHA1: e893e3f4e90931a86d0613b20f2507253b2542b6
@@ -63,7 +63,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.wizages.bae, com.anemonetheming.anemone, com.wizages.springchanger
-Filename: ./debs/com.19card.basecamprespringlogo_1.0_iphoneos-arm.deb
+Filename: ./debs//com.19card.basecamprespringlogo_1.0_iphoneos-arm.deb
 Size: 81774
 MD5sum: 34cd7fadae73c9bd930823b8e8120232
 SHA1: e1bc251a8def6d0642c46a974d8ad6043b7d3325
@@ -78,7 +78,7 @@ Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.wizages.bae, com.anemonetheming.anemone, com.wizages.springchanger
-Filename: ./debs/com.19card.classicmazdarespringlogo_1.2_iphoneos-arm.deb
+Filename: ./debs//com.19card.classicmazdarespringlogo_1.2_iphoneos-arm.deb
 Size: 73378
 MD5sum: e6e2b9ffbaeb5a14f1cd9caa6b9d6411
 SHA1: 3f77ee3df4191598ad28dd3adecc9d2f550bb255
@@ -93,7 +93,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.wizages.bae, com.anemonetheming.anemone
-Filename: ./debs/com.19card.commedesgarconsrespringlogo_1.0_iphoneos-arm.deb
+Filename: ./debs//com.19card.commedesgarconsrespringlogo_1.0_iphoneos-arm.deb
 Size: 89552
 MD5sum: bff4b96f67deeea8af8c79f2d3c70ce4
 SHA1: 9a73aa0dcdbc190ed922e7fe433bfbc3ddc95c81
@@ -108,7 +108,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.wizages.bae, com.anemonetheming.anemone
-Filename: ./debs/com.19card.csogrespringlogo_1.0_iphoneos-arm.deb
+Filename: ./debs//com.19card.csogrespringlogo_1.0_iphoneos-arm.deb
 Size: 78598
 MD5sum: 85b8d4bffcb69ceccfeb2fc090392ff0
 SHA1: 2fbbbf479fc49e909edb54765e56ee88d228b677
@@ -123,7 +123,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.wizages.bae, com.wizages.springchanger, com.anemonetheming.anemone
-Filename: ./debs/com.19card.deadmacrespringlogo_1.0_iphoneos-arm.deb
+Filename: ./debs//com.19card.deadmacrespringlogo_1.0_iphoneos-arm.deb
 Size: 32614
 MD5sum: 900ff9c1aa32ab59ec0f86af805ea2c6
 SHA1: 7ee546dc0f7343d4c75328555d87ffbb7cc546cc
@@ -138,7 +138,7 @@ Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.wizages.bae, com.anemonetheming.anemone
-Filename: ./debs/com.19card.electrav2respringlogo_1.2_iphoneos-arm.deb
+Filename: ./debs//com.19card.electrav2respringlogo_1.2_iphoneos-arm.deb
 Size: 28006
 MD5sum: 50a940c92b6244b051488c243500854b
 SHA1: 685aa5c12c795f4354bd017e65a3396e845f993b
@@ -153,7 +153,7 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.wizages.bae, com.anemonetheming.anemone
-Filename: ./debs/com.19card.fedorarespringlogo_1.1_iphoneos-arm.deb
+Filename: ./debs//com.19card.fedorarespringlogo_1.1_iphoneos-arm.deb
 Size: 148910
 MD5sum: d6162bdcae005fbff1df38b1289fe3ff
 SHA1: c9b600624dc5e209e95e69fe68850f47f3053e07
@@ -168,7 +168,7 @@ Version: 2.2
 Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.wizages.bae, com.wizages.springchanger, com.anemonetheming.anemone
-Filename: ./debs/com.19card.forthosewhosinrespringlogos_2.2_iphoneos-arm.deb
+Filename: ./debs//com.19card.forthosewhosinrespringlogos_2.2_iphoneos-arm.deb
 Size: 499720
 MD5sum: 1e8cf7a364e612ec251e539fd9c7dd72
 SHA1: c04980e9519c9e1f8e8d6a0071014a36580c4f86
@@ -183,7 +183,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.wizages.bae, com.wizages.springchanger, com.anemonetheming.anemone
-Filename: ./debs/com.19card.guccirespringlogo_1.0_iphoneos-arm.deb
+Filename: ./debs//com.19card.guccirespringlogo_1.0_iphoneos-arm.deb
 Size: 138448
 MD5sum: 4ef07ea8b5f19732bb23b48243d9ec70
 SHA1: cdd0bdaa203493ab02b1370e0646591fd5cdbab1
@@ -198,7 +198,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.wizages.bae, com.anemonetheming.anemone, com.wizages.springchanger
-Filename: ./debs/com.19card.howardrespringlogo_1.0_iphoneos-arm.deb
+Filename: ./debs//com.19card.howardrespringlogo_1.0_iphoneos-arm.deb
 Size: 100548
 MD5sum: 0ff6adbf3b824d0f4b9a8f9864e00f35
 SHA1: 0478ad8da23ecaabd0c9fdd212d566a93371b3a7
@@ -213,7 +213,7 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.wizages.bae, com.anemonetheming.anemone, com.wizages.springchanger
-Filename: ./debs/com.19card.kokorespringlogo_1.1_iphoneos-arm.deb
+Filename: ./debs//com.19card.kokorespringlogo_1.1_iphoneos-arm.deb
 Size: 159700
 MD5sum: abc361235e9e957c57ce887bc2f2176f
 SHA1: 57db2b9e13e367aacde48fe39211d5f6464ebd74
@@ -228,7 +228,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.alexzielenski.zeppelin
-Filename: ./debs/com.19card.mazdazeppelinlogo_1.0_iphoneos-arm.deb
+Filename: ./debs//com.19card.mazdazeppelinlogo_1.0_iphoneos-arm.deb
 Size: 4680
 MD5sum: 38df9e2859101ae1961fc9977d907007
 SHA1: 70ec794b06b10279144a319dc2ce543694fd456f
@@ -243,7 +243,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.wizages.bae, com.anemonetheming.anemone
-Filename: ./debs/com.19card.minionthanosrespringlogo_1.0_iphoneos-arm.deb
+Filename: ./debs//com.19card.minionthanosrespringlogo_1.0_iphoneos-arm.deb
 Size: 132122
 MD5sum: 0b34932911cad3c468cd67314d9bb110
 SHA1: 0a7ffd545574231ad4998c0b03fdbebfcdedb259
@@ -258,7 +258,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.wizages.bae, com.wizages.springchanger, com.anemonetheming.anemone
-Filename: ./debs/com.19card.nwarespringlogo_1.0_iphoneos-arm.deb
+Filename: ./debs//com.19card.nwarespringlogo_1.0_iphoneos-arm.deb
 Size: 59016
 MD5sum: f895f217db404d40f09cb481408b5fe4
 SHA1: 9536909a0378d0ee2999e3aa909616f8df860c50
@@ -273,7 +273,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.wizages.bae, com.wizages.springchanger, com.anemonetheming.anemone
-Filename: ./debs/com.19card.okrespringlogo_1.0_iphoneos-arm.deb
+Filename: ./debs//com.19card.okrespringlogo_1.0_iphoneos-arm.deb
 Size: 219014
 MD5sum: fa7c385dc424f583493ab4cebb64a518
 SHA1: 28de30d4c197399321a804bde80c824521ab5f92
@@ -288,7 +288,7 @@ Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.wizages.bae, com.wizages.springchanger, com.anemonetheming.anemone
-Filename: ./debs/com.19card.onedroprespringlogo_1.2_iphoneos-arm.deb
+Filename: ./debs//com.19card.onedroprespringlogo_1.2_iphoneos-arm.deb
 Size: 27442
 MD5sum: 6df879cac830e44597a801d24e476224
 SHA1: 3aa3d305a4c00b689f2f1405f4e3dfe0b60de5f5
@@ -303,7 +303,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.wizages.bae, com.anemonetheming.anemone, com.wizages.springchanger
-Filename: ./debs/com.19card.pewdsrespringlogo_1.0_iphoneos-arm.deb
+Filename: ./debs//com.19card.pewdsrespringlogo_1.0_iphoneos-arm.deb
 Size: 59368
 MD5sum: 1586475b38ba4c567b644353420c5dc3
 SHA1: 4c7498cb7cf116d4fb68928d8f59739328073860
@@ -318,7 +318,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.wizages.bae, com.anemonetheming.anemone, com.wizages.springchanger
-Filename: ./debs/com.19card.razerrespringlogo_1.0_iphoneos-arm.deb
+Filename: ./debs//com.19card.razerrespringlogo_1.0_iphoneos-arm.deb
 Size: 66734
 MD5sum: 79ee75db2bdb5ceb7e93e4362b1f43b1
 SHA1: 63d0b8d30d55d01b5a69c84e3ea326f83d608af8
@@ -333,7 +333,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.alexzielenski.zeppelin
-Filename: ./debs/com.19card.razerzeppelin_1.0_iphoneos-arm.deb
+Filename: ./debs//com.19card.razerzeppelin_1.0_iphoneos-arm.deb
 Size: 2656
 MD5sum: 16fe67471f7a24c96116e3ffa699542a
 SHA1: 2bd1ef176ef8a1c1ace25a28f8bc95f5cf1a6830
@@ -348,7 +348,7 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.alexzielenski.zeppelin
-Filename: ./debs/com.19card.robloxzeppelin_1.1_iphoneos-arm.deb
+Filename: ./debs//com.19card.robloxzeppelin_1.1_iphoneos-arm.deb
 Size: 2806
 MD5sum: 44232557bf29660177574bf2956e6fbc
 SHA1: b4839bdcc387e2e3db5252c8abf91dfb4a543a0a
@@ -363,7 +363,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.wizages.bae, com.wizages.springchanger, com.anemonetheming.anemone
-Filename: ./debs/com.19card.shrekrespringlogo_1.0_iphoneos-arm.deb
+Filename: ./debs//com.19card.shrekrespringlogo_1.0_iphoneos-arm.deb
 Size: 130948
 MD5sum: e28ab860b8d37024470e8b51b5afe088
 SHA1: 46c85b69dd07d30fafdb95046e222a7cb069255f
@@ -378,7 +378,7 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.wizages.bae, com.anemonetheming.anemone, com.wizages.springchanger
-Filename: ./debs/com.19card.shrugrespringlogo_1.1_iphoneos-arm.deb
+Filename: ./debs//com.19card.shrugrespringlogo_1.1_iphoneos-arm.deb
 Size: 34854
 MD5sum: 0023cd877a823d4a82eaa5645a8cccb7
 SHA1: 44b426ae2b8b59b71cbb68d3f594a0db7d070dfa
@@ -393,7 +393,7 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.alexzielenski.zeppelin
-Filename: ./debs/com.19card.shrugzeppelinlogo_1.1_iphoneos-arm.deb
+Filename: ./debs//com.19card.shrugzeppelinlogo_1.1_iphoneos-arm.deb
 Size: 6174
 MD5sum: a25d68cb66bf567647987ee730c0522c
 SHA1: 152a864c0c0029afec9de35279af00b6ed723ea3
@@ -408,7 +408,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.alexzielenski.zeppelin
-Filename: ./debs/com.19card.speedhunterszeppelin_1.0_iphoneos-arm.deb
+Filename: ./debs//com.19card.speedhunterszeppelin_1.0_iphoneos-arm.deb
 Size: 6012
 MD5sum: 0a76fc1c358102607daf69cf87dd18e6
 SHA1: 44324691724b1a6c52c815eff6bf5ddb3a4f1dec
@@ -423,7 +423,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.wizages.bae, com.wizages.springchanger, com.anemonetheming.anemone
-Filename: ./debs/com.19card.spinnerrespringlogo_1.0_iphoneos-arm.deb
+Filename: ./debs//com.19card.spinnerrespringlogo_1.0_iphoneos-arm.deb
 Size: 78982
 MD5sum: c642feb41a7b5fb53dd6aae2790bbfc2
 SHA1: 6e4320975b93a465236e4f431203945e43564433
@@ -438,7 +438,7 @@ Version: 1.4
 Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.alexzielenski.zeppelin
-Filename: ./debs/com.19card.stancenationzeppelin_1.4_iphoneos-arm.deb
+Filename: ./debs//com.19card.stancenationzeppelin_1.4_iphoneos-arm.deb
 Size: 4058
 MD5sum: ab7eaa10726421c8b5280caf55f5d7ce
 SHA1: 1f96ea867c72d1a7c043673f40fa8e1abec4146b
@@ -453,7 +453,7 @@ Version: 1.3
 Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.wizages.bae, com.wizages.springchanger, com.anemonetheming.anemone
-Filename: ./debs/com.19card.subarurespringlogo_1.3_iphoneos-arm.deb
+Filename: ./debs//com.19card.subarurespringlogo_1.3_iphoneos-arm.deb
 Size: 81200
 MD5sum: 3bfbcb6851558a9d6ace6283e36847da
 SHA1: 0b434f8b5bf8399ed1e5166c97779896e7462f0f
@@ -468,7 +468,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.wizages.bae, com.anemonetheming.anemone, com.wizages.springchanger
-Filename: ./debs/com.19card.vectormiataprespringlogo_1.0_iphoneos-arm.deb
+Filename: ./debs//com.19card.vectormiataprespringlogo_1.0_iphoneos-arm.deb
 Size: 97100
 MD5sum: 10a6cf83fcba0f2ae1f60cf58d62e211
 SHA1: ef61ac7a5645ab5500162bc77aa07af680559aa8
@@ -483,7 +483,7 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.wizages.bae, com.anemonetheming.anemone
-Filename: ./debs/com.19card.vlonerespringlogo_1.1_iphoneos-arm.deb
+Filename: ./debs//com.19card.vlonerespringlogo_1.1_iphoneos-arm.deb
 Size: 19652
 MD5sum: 1896a6e43926dd1071691f4c0afb21b5
 SHA1: 0bc1745a8f7127b7df2b7c7139ee406c0961d374
@@ -498,7 +498,7 @@ Version: 2.0
 Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.wizages.bae, com.anemonetheming.anemone, com.wizages.springchanger
-Filename: ./debs/com.19card.whitefoxrespringlogo_2.0_iphoneos-arm.deb
+Filename: ./debs//com.19card.whitefoxrespringlogo_2.0_iphoneos-arm.deb
 Size: 217596
 MD5sum: 331a28d79f8d614fd7f56ebeac9381d2
 SHA1: 40317b55fe40f8a7c04517b65184bb694e9a3458
@@ -513,7 +513,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.wizages.bae, com.anemonetheming.anemone, com.wizages.springchanger
-Filename: ./debs/com.19card.ziptiezrespringlogo_1.0_iphoneos-arm.deb
+Filename: ./debs//com.19card.ziptiezrespringlogo_1.0_iphoneos-arm.deb
 Size: 44304
 MD5sum: 56557ed95e3f36b61a35e0c860b7406c
 SHA1: 436f49b2e09bad0059a23711f3ad66f28b701a64
@@ -528,7 +528,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.alexzielenski.zeppelin
-Filename: ./debs/com.19card.ziptiezzeppelinlogo_1.0_iphoneos-arm.deb
+Filename: ./debs//com.19card.ziptiezzeppelinlogo_1.0_iphoneos-arm.deb
 Size: 3388
 MD5sum: 5c6729f2e2548dfc24a20d81bd7e6e88
 SHA1: 012266ac2d230388561e84a33f3fc55b018ba6a2
@@ -538,12 +538,27 @@ Description: I doubt anyone on my repo likes cars.  This is just a car culture a
 Author: 19card <19cardtweaks@gmail.com>
 Name: Ziptiez Zeppelin Logo
 
+Package: com.novinha.jellyfishxenhtml
+Version: 2.0.3
+Architecture: iphoneos-arm
+Maintainer: Novinha
+Filename: ./debs//com.novinha.jellyfishxenhtml_2.0.3_iphoneos-arm.deb
+Size: 311592
+MD5sum: ece2b12d9b2f7cd954be9c91c1ae6fce
+SHA1: 4d25366bde70fa5115f2fffc54021b688b6b8bbf
+SHA256: beb97c3255b6d16c5f22210857424456b8682b30b6f8c1ae9fe56bbb0f547005
+Section: Themes
+Description: This is not Jellyfish. Credits to Evelyn (ev_ynw) for the HTML base template.
+Author: Novinha
+Name: NotJellyfish
+Sileodepiction: https://ocean.webjungle.ch/dep/notjellyfish.js
+
 Package: com.yourepo.19card.dogerespringlogo
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.wizages.bae, com.anemonetheming.anemone
-Filename: ./debs/com.19card.dogerespringlogo_1.0_iphoneos-arm.deb
+Filename: ./debs//com.19card.dogerespringlogo_1.0_iphoneos-arm.deb
 Size: 276542
 MD5sum: a2b330090084b509a9a8dd70d3d4e41c
 SHA1: 4e6a1d7583a1fe9eb40fa1bc3ef7735fe2ebae95
@@ -558,7 +573,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.wizages.bae, com.anemonetheming.anemone, com.wizages.springchanger
-Filename: ./debs/com.19card.thonkrespringlogo_1.0_iphoneos-arm.deb
+Filename: ./debs//com.19card.thonkrespringlogo_1.0_iphoneos-arm.deb
 Size: 61006
 MD5sum: c49e1c69ca42b49c953b78d7cf777380
 SHA1: 066d267d903a6d2eff8f9b99e12a197f2c017885
