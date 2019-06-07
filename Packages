@@ -538,6 +538,21 @@ Description: I doubt anyone on my repo likes cars.  This is just a car culture a
 Author: 19card <19cardtweaks@gmail.com>
 Name: Ziptiez Zeppelin Logo
 
+Package: com.novinha.jellyfishxenhtml
+Version: 2.0.3
+Architecture: iphoneos-arm
+Maintainer: Novinha
+Filename: ./debs/com.novinha.jellyfishxenhtml_2.0.3_iphoneos-arm.deb
+Size: 310224
+MD5sum: ca0ef4d23580e0ac590574ad84f1b871
+SHA1: 80f6972321572006a1d20c8699033106a8f5d700
+SHA256: 19eebd52c258ad565c0c4de8238c0a2854ed98ac109de802c0ac0ebb635cdafe
+Section: Themes
+Description: This is not Jellyfish. Credits to Evelyn (ev_ynw) for the HTML base template.
+Author: Novinha
+Name: NotJellyfish
+Sileodepiction: https://ocean.webjungle.ch/dep/notjellyfish.js
+
 Package: com.yourepo.19card.dogerespringlogo
 Version: 1.0
 Architecture: iphoneos-arm

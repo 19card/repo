@@ -1,0 +1,79 @@
+body {
+      margin:0;
+      padding:0;
+      //text-shadow:1px 1px 0px rgba(0,0,0,0.2);
+      font-weight:100;
+      text-transform:uppercase;
+      font-family:reg;
+	  //background:grey;
+}
+
+@font-face{
+      font-family:reg;
+      src:url(Fonts/SanFranciscoSemiBold.otf);
+}
+
+#Weather{
+      position:absolute;
+	  top:72px;
+	  right:20px;
+	  width:375px;
+	  text-align:right;
+	  z-index:10;
+      font-size:17px;
+	  letter-spacing:0;
+}
+
+#Clock{
+      position:absolute;
+	  top:87px;
+	  right: 20px;
+	  width:375px;
+	  text-align:right;
+	  z-index:10;
+      font-size:66.875px;
+	  letter-spacing:-1;
+}
+
+#Cal{
+      position:absolute;
+	  top:150px;
+	  right:20px;
+	  width:375px;
+	  text-align:right;
+	  z-index:10;
+      font-size:66.875px;
+	  letter-spacing:-3;
+}
+
+#LevelDisplay{
+      position:absolute;
+	  top:212px;
+	  right:20px;
+	  width:375px;
+	  text-align:right;
+	  z-index:10;
+      font-size:66.875px;
+	  letter-spacing:-1;
+}
+
+#batteryBack{
+	  Position: absolute;
+	  top: 220px;
+	  right: 20px;
+	  width: 200px;
+	  background: white;
+	  height: 2.5px;
+	  border-radius: 0px;
+	  opacity: 0.4;
+}
+
+#batterybar{
+	  position: absolute;
+	  top: 220px;
+	  right: 20px;
+//	  width: 200px;
+	  background: white;
+	  height: 2.5px;
+	  border-radius: 0px;
+}
