@@ -1,9 +1,0 @@
-Package: com.novinha.jellyfishxenhtml
-Name: NotJellyfish
-Version: 2.0.3
-Architecture: iphoneos-arm
-Description: This is not Jellyfish. Credits to Evelyn (ev_ynw) for the HTML base template.
-Author: Novinha
-Maintainer: Novinha
-Section: Themes
-SileoDepiction: https://ocean.webjungle.ch/dep/notjellyfish.js
