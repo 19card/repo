@@ -528,10 +528,10 @@ Version: 2.0.3
 Architecture: iphoneos-arm
 Maintainer: Novinha
 Filename: ./debs/com.novinha.jellyfishxenhtml_2.0.3_iphoneos-arm.deb
-Size: 310224
-MD5sum: f1791ed0efcaea31530c5cbef4e9d62c
-SHA1: 32f03995a9b787128ab37483c4dda102f2d4f1a3
-SHA256: 481b4faf7c53253b207fed1d18a11f0c904cb7f855a7a49047a9d98f5959ca91
+Size: 310804
+MD5sum: cfddc1ef5818b5810ded886976dca430
+SHA1: 851907befc13a1baa6561268aa38d11ac519a7b7
+SHA256: 65266fae1debcd75e77083c923d6b1d1f57558967c1f51afccb720682ebde8fe
 Section: Themes
 Description: This is not Jellyfish. Credits to Evelyn (ev_ynw) for the HTML base template.
 Author: Novinha
