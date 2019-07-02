@@ -118,21 +118,6 @@ Description: Want the Dead Mac as your respring logo?  Here ya go!  You need Mak
 Author: 19card <19cardtweaks@gmail.com>
 Name: Dead Mac Respring Logo
 
-Package: com.19card.electrav2respringlogo
-Version: 1.2
-Architecture: iphoneos-arm
-Maintainer: 19card <19cardtweaks@gmail.com>
-Depends: com.wizages.bae, com.anemonetheming.anemone
-Filename: ./debs/com.19card.electrav2respringlogo_1.2_iphoneos-arm.deb
-Size: 28006
-MD5sum: 50a940c92b6244b051488c243500854b
-SHA1: 685aa5c12c795f4354bd017e65a3396e845f993b
-SHA256: 4876d081a6bef4d9a5d9ffb0fcce62741a850e1b884df85ee72a3741f649e56d
-Section: Respring Logo
-Description: Want the Electra Logo as your respring logo? Here ya go! You need MakeRespringsGreatAgain and Anemone(to apply it) for this to work!
-Author: 19card <19cardtweaks@gmail.com>
-Name: Electra V2 Respring Logo
-
 Package: com.19card.fedorarespringlogo
 Version: 1.1
 Architecture: iphoneos-arm
