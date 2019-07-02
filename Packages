@@ -433,21 +433,6 @@ Description: For the Subie enthusiast who wants the Subaru logo as their resprin
 Author: 19card <19cardtweaks@gmail.com>
 Name: Subaru Respring Logo
 
-Package: com.19card.vectormiatarespringlogo
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: 19card <19cardtweaks@gmail.com>
-Depends: com.wizages.bae, com.anemonetheming.anemone, com.wizages.springchanger
-Filename: ./debs/com.19card.vectormiataprespringlogo_1.0_iphoneos-arm.deb
-Size: 97100
-MD5sum: 10a6cf83fcba0f2ae1f60cf58d62e211
-SHA1: ef61ac7a5645ab5500162bc77aa07af680559aa8
-SHA256: 76a348941408ac9434581b6fc74c1e178803aca4915e5b71d64f5ddba4883a6c
-Section: Respring Logo
-Description: If you like the NA Miata, get this logo!  You need MakeRespringsGreatAgain and Anemone(to apply it) for this to work!
-Author: 19card <19cardtweaks@gmail.com>
-Name: Vector Miata Respring Logo
-
 Package: com.19card.vlonerespringlogo
 Version: 1.1
 Architecture: iphoneos-arm
