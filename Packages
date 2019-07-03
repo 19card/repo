@@ -433,21 +433,6 @@ Description: For the Subie enthusiast who wants the Subaru logo as their resprin
 Author: 19card <19cardtweaks@gmail.com>
 Name: Subaru Respring Logo
 
-Package: com.19card.vlonerespringlogo
-Version: 1.1
-Architecture: iphoneos-arm
-Maintainer: 19card <19cardtweaks@gmail.com>
-Depends: com.wizages.bae, com.anemonetheming.anemone
-Filename: ./debs/com.19card.vlonerespringlogo_1.1_iphoneos-arm.deb
-Size: 19652
-MD5sum: 1896a6e43926dd1071691f4c0afb21b5
-SHA1: 0bc1745a8f7127b7df2b7c7139ee406c0961d374
-SHA256: f84229a75019c4bc05db045a1b9384976916fdbbea7219e3aa45e36e9faa0f87
-Section: Respring Logo
-Description: You like VLONE? You want their logo as your respring logo? Here ya go! You need MakeRespringsGreatAgain and Anemone(to apply it) for this to work!
-Author: 19card <19cardtweaks@gmail.com>
-Name: VLONE Respring Logo
-
 Package: com.19card.whitefoxrespringlogo
 Version: 2.0
 Architecture: iphoneos-arm
