@@ -29,34 +29,19 @@ Author: 19card <19cardtweaks@gmail.com>
 Name: Aperture Laboratories Respring Logo
 
 Package: com.19card.audiotechnicarespringlogo
-Version: 1.1
-Architecture: iphoneos-arm
-Maintainer: 19card <19cardtweaks@gmail.com>
-Depends: com.wizages.bae, com.anemonetheming.anemone, com.wizages.springchanger
-Filename: ./debs/com.19card.audiotechnicarespringlogo_1.1_iphoneos-arm.deb
-Size: 65040
-MD5sum: 05a89911c074001af3a31432ad2fc205
-SHA1: 8dbfbba3be6e588de049698e3dd59e8175fdd270
-SHA256: 69f65aa41b7e7dbd652eb8239edfbe6b4e618f4d41c806463cfb050ef1ebc48f
-Section: Respring Logo
-Description: For all the audiophiles out there!  You need MakeRespringsGreatAgain and Anemone(to apply it) for this to work!
-Author: 19card <19cardtweaks@gmail.com>
-Name: AudioTechnica Respring Logo
-
-Package: com.19card.audiotechnicarespringlogo
 Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.wizages.bae, com.anemonetheming.anemone, com.wizages.springchanger
 Filename: ./debs/com.19card.audiotechnicarespringlogo_1.2_iphoneos-arm.deb
-Size: 65072
-MD5sum: 1f674ce7be91ea3ee1b53f11a2cd5b52
-SHA1: 7d58765c7b6218e0567ac156ac0454288cbc0c18
-SHA256: 41b6dee5b95df8568272c1a4747a770a621dc668e852fcb3b6e7e900f58fae96
+Size: 65076
+MD5sum: 5601b0e10cacc41bacfae2bd59b1592a
+SHA1: 67a570796e18f001be8cd58b1b3e9060952d916f
+SHA256: 06ae9db51f4f750f0ae0e576165b54a393ec655b084e7200efb5c8838799ef37
 Section: Respring Logo
 Description: For all the audiophiles out there!  You need MakeRespringsGreatAgain and Anemone(to apply it) for this to work!
 Author: 19card <19cardtweaks@gmail.com>
-Depiction: https://19card.github.io/repo/depictions/Respring/Audio-Technica/depiction.html
+Depiction: https://19card.github.io/repo/depictions/Respring/Audio-Technica/depic.html
 Name: AudioTechnica Respring Logo
 
 Package: com.19card.basecamprespringlogo
