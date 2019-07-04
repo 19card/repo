@@ -1608,10 +1608,8 @@
 
 	@-ms-viewport {
 		width: device-width;
-	}
-	@viewport {
-		width: device-width;
 		zoom: 1.0;
+	}
 
 	body {
 		-ms-overflow-style: scrollbar;
