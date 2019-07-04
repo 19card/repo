@@ -170,9 +170,9 @@ Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.wizages.bae, com.anemonetheming.anemone, com.wizages.springchanger
 Filename: ./debs/com.19card.howardrespringlogo_1.1_iphoneos-arm.deb
 Size: 31428
-MD5sum: fe36dd6d13c3177b05d78884501428dc
-SHA1: 9b92a3656c03b675f2d616792be2b7e9e46aee1a
-SHA256: 74c6d032007cf08b2d5f4b041ee04da4c803b8154f44faa1a75ceaf9f3448e48
+MD5sum: ea7d9f18bd2bad2a97e70c737365d6df
+SHA1: b7aca20d580fc31289702764c34c903abd270d19
+SHA256: f2cde990ef448633ac6ff184cf136cb8538e77a9e0a508bd4269b79d5b75c6fe
 Section: Respring Logo
 Description: Want some alien to break it down?  Then this is the respring logo for you! You need MakeRespringsGreatAgain and SpringChanger for this to work!
 Author: 19card <19cardtweaks@gmail.com>
