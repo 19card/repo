@@ -64,10 +64,10 @@ Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.wizages.bae, com.anemonetheming.anemone, com.wizages.springchanger
 Filename: ./debs/com.19card.classicmazdarespringlogo_1.3_iphoneos-arm.deb
-Size: 61916
-MD5sum: 6a6e78b8ecdf7d2f0413d0b7e85765cd
-SHA1: 4a84d2983df61a5e41054bfb7059227970546c7f
-SHA256: bb2ef769d6bb1e801c1f6798bd70cfa38c1e535fc47782aebfdaa2e0defae1e7
+Size: 38592
+MD5sum: 9ccca0c146eb39dfceec4d5c126e848f
+SHA1: eae6d223b0cad1d31659ed6c63a24d6881484987
+SHA256: bb7a14cd1446030df25924f313ead85e43dad47b9ffca2d4ccebb8eba75459c2
 Section: Respring Logo
 Description: Are you a Mazda Fan?  Get these logos to match your passion!  You need MakeRespringsGreatAgain and Anemone(to apply it) for this to work!
 Author: 19card <19cardtweaks@gmail.com>
