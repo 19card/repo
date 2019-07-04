@@ -509,6 +509,22 @@ Author: Novinha
 Name: NotJellyfish
 Sileodepiction: https://ocean.webjungle.ch/dep/notjellyfish.js
 
+Package: com.novinha.jellyfishxenhtml
+Version: 2.0.4
+Architecture: iphoneos-arm
+Maintainer: Novinha
+Filename: ./debs/com.novinha.jellyfishxenhtml_2.0.4_iphoneos-arm.deb
+Size: 310804
+MD5sum: bdd1f64643de5fb7d6932c20e4645036
+SHA1: 74d10f406235c1d39cade9468eac10a0d73a9bd0
+SHA256: 799a70005eb6080f2a83f763ddd737dfd1c23a93a1a8235d0c4bbf7d1e00589c
+Section: Themes
+Description: This is not Jellyfish. Credits to Evelyn (ev_ynw) for the HTML base template.
+Author: Novinha
+Depiction: https://19card.github.io/repo/depictions/NotJellyfish/depiction.html
+Name: NotJellyfish
+Sileodepiction: https://ocean.webjungle.ch/dep/notjellyfish.js
+
 Package: com.yourepo.19card.dogerespringlogo
 Version: 1.1
 Architecture: iphoneos-arm
