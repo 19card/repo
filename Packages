@@ -43,6 +43,22 @@ Description: For all the audiophiles out there!  You need MakeRespringsGreatAgai
 Author: 19card <19cardtweaks@gmail.com>
 Name: AudioTechnica Respring Logo
 
+Package: com.19card.audiotechnicarespringlogo
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: 19card <19cardtweaks@gmail.com>
+Depends: com.wizages.bae, com.anemonetheming.anemone, com.wizages.springchanger
+Filename: ./debs/com.19card.audiotechnicarespringlogo_1.2_iphoneos-arm.deb
+Size: 65072
+MD5sum: 1f674ce7be91ea3ee1b53f11a2cd5b52
+SHA1: 7d58765c7b6218e0567ac156ac0454288cbc0c18
+SHA256: 41b6dee5b95df8568272c1a4747a770a621dc668e852fcb3b6e7e900f58fae96
+Section: Respring Logo
+Description: For all the audiophiles out there!  You need MakeRespringsGreatAgain and Anemone(to apply it) for this to work!
+Author: 19card <19cardtweaks@gmail.com>
+Depiction: https://19card.github.io/repo/depictions/Respring/Audio-Technica/depiction.html
+Name: AudioTechnica Respring Logo
+
 Package: com.19card.basecamprespringlogo
 Version: 1.1
 Architecture: iphoneos-arm
