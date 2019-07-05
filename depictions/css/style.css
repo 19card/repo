@@ -1,3 +1,23 @@
+@font-face {
+  font-family: 'SFPro';
+  src: url('/repo/depictions/fonts/SFReg/SFProDisplay-Regular.woff');
+  font-style: normal;
+  font-weight: 100;
+}
+
+@font-face {
+  font-family: 'SFPro';
+  src: url('/repo/depictions/fonts/SFMed/SFProDisplay-Medium.woff');
+  font-style: normal;
+  font-weight: 200;
+}
+@font-face {
+  font-family: 'SFPro';
+  src: url('/repo/depictions/fonts/SFHeavy/SFProDisplay-Heavy.woff');
+  font-style: normal;
+  font-weight: 300;
+}
+
 iframe {
   border:0
 }
@@ -15,10 +35,17 @@ html .depiction {
   background:0 0
 }
 
+h1 {
+    font-family: 'SFPro';
+    font-weight: 300;
+}
+
 body {
   font:16px -apple-system-font,".Helvetica NeueUI","Helvetica Neue",sans-serif;
   margin:80px 0 35px
 }
+
+
 
 .cydia body {
   margin-top:35px
@@ -51,12 +78,16 @@ body>p,h2,header .date,p[class="footer"] {
 
 @media (min-width:708px) {
 body>p,h2,p[class="footer"] {
+  font-family: 'SFPro';
+  font-weight: 100;
   margin-left:0;
   margin-right:0
 }
 }
 
 h2,header .date {
+  font-family: 'SFPro';
+  font-weight: 200;
   text-transform:uppercase;
   margin-bottom:5px
 }
@@ -122,6 +153,8 @@ ul:after,ul:before {
 }
 
 ul li {
+  font-family: 'SFPro';
+  font-weight: 200;
   border-bottom:1px solid #c8c7cc;
   margin-left:15px;
   padding:13px 15px 13px 0
