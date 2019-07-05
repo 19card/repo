@@ -35,9 +35,9 @@ Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.wizages.bae, com.anemonetheming.anemone, com.wizages.springchanger
 Filename: ./debs/com.19card.audiotechnicarespringlogo_1.2_iphoneos-arm.deb
 Size: 65076
-MD5sum: 5601b0e10cacc41bacfae2bd59b1592a
-SHA1: 67a570796e18f001be8cd58b1b3e9060952d916f
-SHA256: 06ae9db51f4f750f0ae0e576165b54a393ec655b084e7200efb5c8838799ef37
+MD5sum: 14ab90c0879ddbca2f659f468832c225
+SHA1: a813549267658c087ccc6fa6fd34c439d833e653
+SHA256: b3a5a0d6421fcc584827439aa57a8828218713f007e4af05cb885c4f4899fee2
 Section: Respring Logo
 Description: For all the audiophiles out there!  You need MakeRespringsGreatAgain and Anemone(to apply it) for this to work!
 Author: 19card <19cardtweaks@gmail.com>
@@ -500,13 +500,13 @@ Architecture: iphoneos-arm
 Maintainer: Novinha
 Filename: ./debs/com.novinha.jellyfishxenhtml_2.0.4_iphoneos-arm.deb
 Size: 310804
-MD5sum: bdd1f64643de5fb7d6932c20e4645036
-SHA1: 74d10f406235c1d39cade9468eac10a0d73a9bd0
-SHA256: 799a70005eb6080f2a83f763ddd737dfd1c23a93a1a8235d0c4bbf7d1e00589c
+MD5sum: a032e60b6f4cc834225b158cfe468baa
+SHA1: 3b463c7efb161313c752155b1bb547533d11821d
+SHA256: 47beef7be48a0287453af873e684155af040591c9d57423e2a8fbaf4b2197bb5
 Section: Themes
 Description: This is not Jellyfish. Credits to Evelyn (ev_ynw) for the HTML base template.
 Author: Novinha
-Depiction: https://19card.github.io/repo/depictions/NotJellyfish/depiction.html
+Depiction: https://19card.github.io/repo/depictions/NotJellyfish/depic.html
 Name: NotJellyfish
 Sileodepiction: https://ocean.webjungle.ch/dep/notjellyfish.js
 
