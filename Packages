@@ -19,13 +19,14 @@ Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.wizages.bae, com.wizages.springchanger, com.anemonetheming.anemone
 Filename: ./debs/com.19card.aperturerespringlogo_1.4_iphoneos-arm.deb
-Size: 43472
-MD5sum: 76bcffd05ced960a22ab9aff905aa645
-SHA1: a5110565cdf793b44a727a272fe672bb026b6da4
-SHA256: 938bfeedeb513d28980c273aa3eaa67e165dd9bc1e3c39dc4c1ecb11b919b36d
+Size: 43516
+MD5sum: cfa330594f31313ff60c58a9198a9485
+SHA1: 19edd846b4b620c9dc87590034a0fcee53c5b74c
+SHA256: 46585f09263368e7df883204a8a299fab8486ef4c7140a491302e5d5771c2df9
 Section: Respring Logo
 Description: Aperture Laboratories Logo for your resprings! You need MakeRespringsGreatAgain for this to work.
 Author: 19card <19cardtweaks@gmail.com>
+Depiction: https://19card.github.io/repo/depictions/Respring/Aperture/depic.html
 Name: Aperture Laboratories Respring Logo
 
 Package: com.19card.audiotechnicarespringlogo
@@ -50,25 +51,26 @@ Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.wizages.bae, com.anemonetheming.anemone, com.wizages.springchanger
 Filename: ./debs/com.19card.basecamprespringlogo_1.1_iphoneos-arm.deb
-Size: 205812
-MD5sum: 8a50ee6707a73fa0ebaf309e7139894b
-SHA1: d5273961867e885b4c74eb8b6b287d65c90d9461
-SHA256: fc540e0353c7580d337990491c798f414bc01528c2ddecb21d9f3f91b83d20f0
+Size: 205828
+MD5sum: a9e01e6545cd1bad71ee6bd6dbc0d56d
+SHA1: 99457e47a6caf8052ad814b399018cc3a5c95975
+SHA256: c2b215d67fdc5ba58b192dbbdef2b09a9e05daf4052c480d19f17662715f9719
 Section: Respring Logo
 Description: "Sometimes the best view isn't from the summit."  You need MakeRespringsGreatAgain and Anemone(to apply it) for this to work!
 Author: 19card <19cardtweaks@gmail.com>
+Depiction: https://19card.github.io/repo/depictions/Respring/Basecamp/depic.html
 Name: Basecamp Yoyo Respring Logo
 
 Package: com.19card.classicmazdarespringlogo
-Version: 1.3
+Version: 1.4
 Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.wizages.bae, com.anemonetheming.anemone, com.wizages.springchanger
-Filename: ./debs/com.19card.classicmazdarespringlogo_1.3_iphoneos-arm.deb
-Size: 38592
-MD5sum: 9ccca0c146eb39dfceec4d5c126e848f
-SHA1: eae6d223b0cad1d31659ed6c63a24d6881484987
-SHA256: bb7a14cd1446030df25924f313ead85e43dad47b9ffca2d4ccebb8eba75459c2
+Filename: ./debs/com.19card.classicmazdarespringlogo_1.4_iphoneos-arm.deb
+Size: 38604
+MD5sum: 22c590bd49a6b3b3abe51aea17e63d94
+SHA1: eeba00b0aba2dabe7febe403dfebeab307df00fe
+SHA256: e1bdcd037cf6851a8f109de48acaaa9605924d6002c594274f834677fb395258
 Section: Respring Logo
 Description: Are you a Mazda Fan?  Get these logos to match your passion!  You need MakeRespringsGreatAgain and Anemone(to apply it) for this to work!
 Author: 19card <19cardtweaks@gmail.com>
@@ -80,13 +82,14 @@ Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.wizages.bae, com.anemonetheming.anemone
 Filename: ./debs/com.19card.commedesgarconsrespringlogo_1.1_iphoneos-arm.deb
-Size: 46148
-MD5sum: 9da6613855aad3dafd258247103752c1
-SHA1: 6eecdb43acedc1174949dc39b0bf57b4606e3a06
-SHA256: a29f9b33fdb71e7ff786b962300c05e8c54364f36b06933779122c0d010299a9
+Size: 46188
+MD5sum: e1699c04ace9179ee9e5ad993ba216d1
+SHA1: d668670dc5556d42bcc63480330cdf2828e0a879
+SHA256: 2358c42ed7a99df1583aaaebb78bf9010fd3e8df2f253cc448459e001c7b45ea
 Section: Respring Logo
 Description: For the hypebeast!  You need MakeRespringsGreatAgain and Anemone(to apply it).   SpringChanger is optional.
 Author: 19card <19cardtweaks@gmail.com>
+Depiction: https://19card.github.io/repo/depictions/Respring/Comme Des Garcons/depic.html
 Name: Comme Des Garcons Respring Logo
 
 Package: com.19card.csgorespringlogo
@@ -95,13 +98,14 @@ Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.wizages.bae, com.anemonetheming.anemone
 Filename: ./debs/com.19card.csgorespringlogo_1.1_iphoneos-arm.deb
-Size: 28372
-MD5sum: 5c8494b70500b2d290cfef0ff6951291
-SHA1: 34d82794e6499f40a46ba933698f699b144e9136
-SHA256: 2669e353eee375b2dda771bb0e2fa4950bbc5c56b42ae135fdc66cba61cfd239
+Size: 28412
+MD5sum: 82e6534c682c22259f10a623936ba4da
+SHA1: 08d80e43a268112520996e5e9c7f03b79d3f65e3
+SHA256: 6631fb07b30f8ad67a3550769d6bdf0069c81f78bce081830dc1fdd464c57ca6
 Section: Respring Logo
 Description: Requested by someone I know IRL. :\  You need MakeRespringsGreatAgain and Anemone(to apply it).   SpringChanger is optional.
 Author: 19card <19cardtweaks@gmail.com>
+Depiction: https://19card.github.io/repo/depictions/Respring/CSGO/depic.html
 Name: CSGO Respring Logo
 
 Package: com.19card.deadmacrespringlogo
@@ -110,13 +114,14 @@ Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.wizages.bae, com.wizages.springchanger, com.anemonetheming.anemone
 Filename: ./debs/com.19card.deadmacrespringlogo_1.1_iphoneos-arm.deb
-Size: 31216
-MD5sum: c8978651bd7aaf82e48b89f502d1104a
-SHA1: f5c03bc5eed1f70914836f62fdaebb22ec84907c
-SHA256: 04b1ba48cae91a725b1298d759cb407918f39094bde5ea5452e2dec74a65e0e8
+Size: 31252
+MD5sum: f9b088c848f829edf3c60d405c062c20
+SHA1: 6526ab37e3bf9cec5bb2708496b5ec7659d7c290
+SHA256: 3977cd990cc8de71ca546065dd130364025e8058442a018d40ee74625743f10e
 Section: Respring Logo
 Description: Want the Dead Mac as your respring logo?  Here ya go!  You need MakeRespringsGreatAgain and SpringChanger for this to work.
 Author: 19card <19cardtweaks@gmail.com>
+Depiction: https://19card.github.io/repo/depictions/Respring/Dead_Mac/depic.html
 Name: Dead Mac Respring Logo
 
 Package: com.19card.fedorarespringlogo
@@ -125,13 +130,14 @@ Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.wizages.bae, com.anemonetheming.anemone
 Filename: ./debs/com.19card.fedorarespringlogo_1.2_iphoneos-arm.deb
-Size: 71068
-MD5sum: aa5490af37b76ae2e97c89f1ee9e1dc3
-SHA1: f9ee66e681aa5044decf469600a111d001e6910c
-SHA256: 0146339ba9e9c0216c5f470372e79abddb4526234432f57bd93da5291460f51c
+Size: 71092
+MD5sum: 39d5a4c3b44d462efce119ce0d362a80
+SHA1: d4165bd3659531572d9c6a98e88037acf99eb531
+SHA256: af599b5ef0cb456c3c3fd8b5fa3089c39c4f4b6f11ffb1744f35f0d634226214
 Section: Respring Logo
 Description: Like fedoras? Get this respring logo! You need MakeRespringsGreatAgain and Anemone(to apply it) for this to work!
 Author: 19card <19cardtweaks@gmail.com>
+Depiction: https://19card.github.io/repo/depictions/Respring/Fedora/depic.html
 Name: Fedora Respring Logo
 
 Package: com.19card.forthosewhosinrespringlogos
@@ -140,13 +146,14 @@ Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.wizages.bae, com.wizages.springchanger, com.anemonetheming.anemone
 Filename: ./debs/com.19card.forthosewhosinrespringlogos_2.3_iphoneos-arm.deb
-Size: 170856
-MD5sum: f43a7df38d50b1d18ff9fe6d7c21c048
-SHA1: 2b49c340ea84f2dc48e7cbd44a3e63aceaee30d8
-SHA256: b156bd1e4ebfd2a5615fc1aadcbf7ad2cbdabfa743e2da561923bbe6731649ee
+Size: 170824
+MD5sum: 038a3bc7c48c78df54505c4772c0eb97
+SHA1: d3874827d6bfa847b56b9e8142ff3bc38aedf914
+SHA256: aabe69bab2a9d3d74d1007eb2cd18acc13c9240487f890af381f4297546f7c7a
 Section: Respring Logo
 Description: For Those Who Sin Respring Logos, you need MakeRespringsGreatAgain and SpringChanger for this to work. Might have to use SpringChanger to change background color to like grey or something.
 Author: 19card <19cardtweaks@gmail.com>
+Depiction: https://19card.github.io/repo/depictions/Respring/FTWS/depic.html
 Name: For Those Who Sin Respring Logos
 
 Package: com.19card.guccirespringlogo
@@ -155,13 +162,14 @@ Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.wizages.bae, com.wizages.springchanger, com.anemonetheming.anemone
 Filename: ./debs/com.19card.guccirespringlogo_1.1_iphoneos-arm.deb
-Size: 35836
-MD5sum: cd2beafe3e78f3313e4a3d134d4a02da
-SHA1: b99e9114f4454dfbeafb9518c8daf92dfde8847f
-SHA256: 06f9139de86c36faddf71aba4ea903799d8f5e4043052d91e7e0aefed5485351
+Size: 35880
+MD5sum: ec308c07cffa1a711cc4fb62a249fabe
+SHA1: 38419d6eaee0d95bcb17055fd4dc289e4abd990a
+SHA256: 82120930485ee0ded3bae9e47cef6e4d69282f23686a2b1cbc19f167812001f9
 Section: Respring Logo
 Description: Got clout?  Get this respring logo to match your clout level! You need MakeRespringsGreatAgain and SpringChanger for this to work.
 Author: 19card <19cardtweaks@gmail.com>
+Depiction: https://19card.github.io/repo/depictions/Respring/Gucci/depic.html
 Name: Gucci Respring Logo
 
 Package: com.19card.howardrespringlogo
@@ -170,13 +178,14 @@ Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.wizages.bae, com.anemonetheming.anemone, com.wizages.springchanger
 Filename: ./debs/com.19card.howardrespringlogo_1.1_iphoneos-arm.deb
-Size: 31424
-MD5sum: 3a29d6fe6beb9e4908c1ff62bf95a697
-SHA1: a0ecb3752765dade80640a87d4a91fd966073521
-SHA256: 458d19a17d13a8ab22f1f9a7685ed3cddbf75b6c7ff8b20d83e7a70585feb085
+Size: 31468
+MD5sum: a0f606c8f52d60a1f35e0e971fa484c6
+SHA1: 1b0fe0cc8cfcc83d051cd2d7f2c20f5842060e2e
+SHA256: f4a9f6bf23b783bf1c49bf1594922a9b88bf608f303925ad048c0d428bca80e5
 Section: Respring Logo
 Description: Want some alien to break it down?  Then this is the respring logo for you! You need MakeRespringsGreatAgain and SpringChanger for this to work!
 Author: 19card <19cardtweaks@gmail.com>
+Depiction: https://19card.github.io/repo/depictions/Respring/Howard_Alien/depic.html
 Name: Howard the Alien Respring Logo
 
 Package: com.19card.kokorespringlogo
@@ -185,13 +194,14 @@ Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.wizages.bae, com.anemonetheming.anemone, com.wizages.springchanger
 Filename: ./debs/com.19card.kokorespringlogo_1.2_iphoneos-arm.deb
-Size: 44952
-MD5sum: c4c04d49c14c847989c17efc91943a57
-SHA1: a570a751a510ad0b53d0f7cbecd2e41e3fe8472a
-SHA256: 686017392a2fcc6d9c6039674673d34b82ffdffc2eb60e97ef1d3c6767de7c18
+Size: 44976
+MD5sum: b69a160664a2388908651782b1e9b256
+SHA1: 58c9897f03272b2eb5bcf6747f9fe0a694386a37
+SHA256: 5da347a4a27b9549b688cbfd245782337d5644f65e2900cd0218fabd83766dcf
 Section: Respring Logo
 Description: Only old people will know who this is.  Or people who like Ghostemane.  You need MakeRespringsGreatAgain and Anemone(to apply it) for this to work!
 Author: 19card <19cardtweaks@gmail.com>
+Depiction: https://19card.github.io/repo/depictions/Respring/Koko/depic.html
 Name: Koko the Clown Respring Logo
 
 Package: com.19card.mazdazeppelin
@@ -215,13 +225,14 @@ Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.wizages.bae, com.anemonetheming.anemone
 Filename: ./debs/com.19card.minionthanosrespringlogo_1.1_iphoneos-arm.deb
-Size: 52200
-MD5sum: 31dcf67087233ca81819bcd76fc485d1
-SHA1: 97081143ade75738d91b27c04127e862cd556f99
-SHA256: 4cff553b846189f2cf5484926cd937ec7d16def11fe50d14fd9f6b92d622089d
+Size: 52240
+MD5sum: dd3cdb24de833f2280d6abba67fe6be7
+SHA1: 1f3d679d4b157674a72d9248e3091c072270cbce
+SHA256: e000639a279c9f9d5997dc39d8898747a46f5c75cb7cbd3b0a9940fcee0097d7
 Section: Respring Logo
 Description: For all the memers out there!  You need MakeRespringsGreatAgain and Anemone(to apply it) for this to work!
 Author: 19card <19cardtweaks@gmail.com>
+Depiction: https://19card.github.io/repo/depictions/Respring/Minion Thanos/depic.html
 Name: Minion Thanos Respring Logo
 
 Package: com.19card.nwarespringlogo
@@ -230,13 +241,14 @@ Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.wizages.bae, com.wizages.springchanger, com.anemonetheming.anemone
 Filename: ./debs/com.19card.nwarespringlogo_1.1_iphoneos-arm.deb
-Size: 30888
-MD5sum: a23e215442a0d4d6f7af5d975d84fdb9
-SHA1: 152bb3a580c7af2d9f66063041d7bd0e283168cb
-SHA256: e560acfe50cd8b531dcf73702f47bbf0bfc688bacace4038e531a75922e90e1e
+Size: 30928
+MD5sum: 2fcce60186908b46d7a02390400027c0
+SHA1: 25155478cd19526e7d231ee408bbb94745ea1320
+SHA256: 7f60b29930e9862e7e823d151b1d48518f23b86d78c2f1aa14cf3907812d9533
 Section: Respring Logo
 Description: Are you a person with attitude?  Get this respring logo! You need MakeRespringsGreatAgain and SpringChanger for this to work.
 Author: 19card <19cardtweaks@gmail.com>
+Depiction: https://19card.github.io/repo/depictions/Respring/NWA/depic.html
 Name: NWA Respring Logo
 
 Package: com.19card.okrespringlogo
@@ -245,13 +257,14 @@ Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.wizages.bae, com.wizages.springchanger, com.anemonetheming.anemone
 Filename: ./debs/com.19card.okrespringlogo_1.1_iphoneos-arm.deb
-Size: 77252
-MD5sum: 6c6cf3aa383fbef2aef6ed1ed8ebb0dc
-SHA1: a93635ed59e9ce39e48957869647eacd7a229a8e
-SHA256: 234ce2386dd81cdb20a28efa8893144335ab5a17d479ce842451fea7404b30a1
+Size: 77292
+MD5sum: 2f748897ee12864b066f16f6cd8b1b80
+SHA1: 9e59c182e582446c53d67196ca7273604e990d45
+SHA256: caaf012b971d4167c48b03b3c900e6568fe867fb8d8f32dafba3628c3437ae60
 Section: Respring Logo
 Description: Gotcha dude! You need MakeRespringsGreatAgain and SpringChanger for this to work.
 Author: 19card <19cardtweaks@gmail.com>
+Depiction: https://19card.github.io/repo/depictions/Respring/OK/depic.html
 Name: OK Respring Logo
 
 Package: com.19card.onedroprespringlogo
@@ -260,13 +273,14 @@ Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.wizages.bae, com.wizages.springchanger, com.anemonetheming.anemone
 Filename: ./debs/com.19card.onedroprespringlogo_1.3_iphoneos-arm.deb
-Size: 37152
-MD5sum: 923d2dad212b0e58a50ff555ebc3dcca
-SHA1: d86ff72ce5550be1fb0e03ed21d8411670cdfc68
-SHA256: 148988dcc7c47d79fc330a24f3da29d00705c164c7960a929dc58ab0321d4383
+Size: 37188
+MD5sum: aae5e0fc8a18a262960d5b16524a6bff
+SHA1: 7db50239ea688877f8876e2e8e19ea547e6dc248
+SHA256: d45016642538165b476be38b6dd1524494695c31626e585c1035c5795ed499a7
 Section: Respring Logo
 Description: Get the OneDrop Yoyo company logo as your respring logo!
 Author: 19card <19cardtweaks@gmail.com>
+Depiction: https://19card.github.io/repo/depictions/Respring/OneDrop/depic.html
 Name: OneDrop Respring Logo
 
 Package: com.19card.pewdsrespringlogo
@@ -275,13 +289,14 @@ Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.wizages.bae, com.anemonetheming.anemone, com.wizages.springchanger
 Filename: ./debs/com.19card.pewdsrespringlogo_1.1_iphoneos-arm.deb
-Size: 32036
-MD5sum: 600e46ea133af8f1e3bf651af650a137
-SHA1: a3691a1ffc24f8edaa24185b6fe309d220115bec
-SHA256: 5ee90d279765ecd7b8ba890985dfa88c76d1d172cbb4609f821634819821b84d
+Size: 32072
+MD5sum: 21e80a8ed8b458591cab9222b2255e5a
+SHA1: 3d13eb8219adef9948aafa6fb4a9d2e4b306c154
+SHA256: 766043bd1c12101e14cb80fc4522c1472b5b3bd234f1c5dfeb7da2ffba6d4096
 Section: Respring Logo
 Description: I did my part!  Did you?  Install to get the brofist so you can do your part!.  You need MakeRespringsGreatAgain and Anemone(to apply it) for this to work!
 Author: 19card <19cardtweaks@gmail.com>
+Depiction: https://19card.github.io/repo/depictions/Respring/Pewds/depic.html
 Name: Pewds Respring Logo
 
 Package: com.19card.razerrespringlogo
@@ -290,13 +305,14 @@ Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.wizages.bae, com.anemonetheming.anemone, com.wizages.springchanger
 Filename: ./debs/com.19card.razerrespringlogo_1.1_iphoneos-arm.deb
-Size: 86288
-MD5sum: 26c7082439e13c1c72906767093d41a4
-SHA1: 21325322790e070c3c22206613a3b95bf89b56d0
-SHA256: c597e6cea249efe3e0fc26c76789ab572a033a0193d7a033b7527cbfcaf44662
+Size: 86336
+MD5sum: 6a71c49475c035fa8fb305d56ddc928d
+SHA1: b25fa485b1636610e6c902b3be1e32d43625705f
+SHA256: f7b2de176d67f7f72593f4456aff831878eb6ddc04a8a176bfbc8a9f647109dc
 Section: Respring Logo
 Description: For all the gamers out there!  You need MakeRespringsGreatAgain and Anemone(to apply it) for this to work!
 Author: 19card <19cardtweaks@gmail.com>
+Depiction: https://19card.github.io/repo/depictions/Respring/Razer/depic.html
 Name: Razer Respring Logo
 
 Package: com.19card.razerzeppelin
@@ -335,13 +351,14 @@ Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.wizages.bae, com.wizages.springchanger, com.anemonetheming.anemone
 Filename: ./debs/com.19card.shrekrespringlogo_1.1_iphoneos-arm.deb
-Size: 45040
-MD5sum: 075214641c71ad67b2e3a51272c2a350
-SHA1: 545e190952d09bfb727554df66473f2bfe76f1dd
-SHA256: 246b0e9b53aa81bc4ef4cdae60f6f8a1bccdb0159fe53209b685dcdc7e059c76
+Size: 45072
+MD5sum: e3dcf9d105db1b84022f51486e6ede39
+SHA1: f1703db21f404165497866240c438f0ec6288d2f
+SHA256: 7d5349e10d4d4bc0d7bde17b6e7bf5a2da177a3d5ab9a9d5bd951f1ff10728ff
 Section: Respring Logo
 Description: Did somebody tell you the world was gonna roll you, and that you weren't the sharpest tool in the shed? You need MakeRespringsGreatAgain for this to work.
 Author: 19card <19cardtweaks@gmail.com>
+Depiction: https://19card.github.io/repo/depictions/Respring/Shrek/depic.html
 Name: Shrek Respring Logo
 
 Package: com.19card.shrugrespringlogo
@@ -350,13 +367,14 @@ Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.wizages.bae, com.anemonetheming.anemone, com.wizages.springchanger
 Filename: ./debs/com.19card.shrugrespringlogo_1.2_iphoneos-arm.deb
-Size: 23956
-MD5sum: ba091f9de841695608534a4509320565
-SHA1: 0c544a004733a4704aa74c43f5f795e7f2cab7ee
-SHA256: d1c476c2494edeabf8113f8badb8c6556bbf6bf327cc4646e418565f8ab463a5
+Size: 23968
+MD5sum: 84e50fff778a91bfa134f21a65b8b86a
+SHA1: 95ee49083e27b8c3891bc3fe36950726b73abd0a
+SHA256: 4b95ff79fa529c230e5ea542598c3e5764886c78947a755f934b95b85dd3e976
 Section: Respring Logo
 Description: ¯\_(ツ)_/¯.  You need MakeRespringsGreatAgain and Anemone(to apply it) for this to work!
 Author: 19card <19cardtweaks@gmail.com>
+Depiction: https://19card.github.io/repo/depictions/Respring/Shrug/depic.html
 Name: Shrug Respring Logo
 
 Package: com.19card.shrugzeppelin
@@ -395,13 +413,14 @@ Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.wizages.bae, com.wizages.springchanger, com.anemonetheming.anemone
 Filename: ./debs/com.19card.spinnerrespringlogo_1.1_iphoneos-arm.deb
-Size: 27536
-MD5sum: 298716e4ddb26609583a169bdf307dd0
-SHA1: 5f5ee3fa1d0fd53cf33e6d32ad2d4d3741646779
-SHA256: 9a171fe388297e59f186c19d2784c65a8ee5115e11a82a507bd21981b29b6830
+Size: 27576
+MD5sum: d0e0b3448cf642908afd810eca04ae0e
+SHA1: 20bcc950c63ebe0ebeab25443b286e05538de067
+SHA256: 7f211e3d7239d4e2e6fa201a0a8edd233f65c7813dcfe16357f16955a27061ea
 Section: Respring Logo
 Description: Wanna trick yourself into thinking your phone is frozen?  Get this respring logo! You need MakeRespringsGreatAgain for this to work.
 Author: 19card <19cardtweaks@gmail.com>
+Depiction: https://19card.github.io/repo/depictions/Respring/Spinner/depic.html
 Name: Spinner Respring Logo
 
 Package: com.19card.stancenationzeppelin
@@ -425,13 +444,14 @@ Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.wizages.bae, com.wizages.springchanger, com.anemonetheming.anemone
 Filename: ./debs/com.19card.subarurespringlogo_1.4_iphoneos-arm.deb
-Size: 30744
-MD5sum: 90890dd34c9bc6c32c72562e5ded270e
-SHA1: 06abd2bad06e987301f0b9b4061e6d19151c954e
-SHA256: 1e46ca9450f3f4d4a3b874dc93483e32c5ef3f5d131b61316b2fec36b1d84925
+Size: 30820
+MD5sum: 5f84629a079dfbea106c5d0934cc8d7a
+SHA1: 83cae9d283b4fd68a25c0d512a8d4e83956ea1a0
+SHA256: 0adb2724e2a9de57ac3528e38c636a6931639431cf3892849d5a7bc619d1041c
 Section: Respring Logo
 Description: For the Subie enthusiast who wants the Subaru logo as their respring logo!
 Author: 19card <19cardtweaks@gmail.com>
+Depiction: https://19card.github.io/repo/depictions/Respring/Subaru/depic.html
 Name: Subaru Respring Logo
 
 Package: com.19card.whitefoxrespringlogo
@@ -440,13 +460,14 @@ Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.wizages.bae, com.anemonetheming.anemone, com.wizages.springchanger
 Filename: ./debs/com.19card.whitefoxrespringlogo_2.1_iphoneos-arm.deb
-Size: 58452
-MD5sum: 29a4228440539f3d9c519282bc4926ea
-SHA1: 6a7c0eae9e8ed1dded3520cd08b2a39dcc98573a
-SHA256: 303b12bbd785ccbb1001b835ed44c10a74fd486f0df7cd0297c772701d575e0a
+Size: 58488
+MD5sum: 21d67e9bd4a5bf2ef329a96372ec65b8
+SHA1: 28bfed46985522f49512006cc59656ed04629e17
+SHA256: 6ba037df89d198d9444bfbf6c8126b050417ac97256138dc0857365c2e4d642b
 Section: Respring Logo
 Description: A LoneFox. ;)  You need MakeRespringsGreatAgain and SpringChanger for this to work!
 Author: 19card <19cardtweaks@gmail.com>
+Depiction: https://19card.github.io/repo/depictions/Respring/WhiteFox/depic.html
 Name: White Fox Respring Logo
 
 Package: com.19card.ziptiezrespringlogo
@@ -455,13 +476,14 @@ Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.wizages.bae, com.anemonetheming.anemone, com.wizages.springchanger
 Filename: ./debs/com.19card.ziptiezrespringlogo_1.1_iphoneos-arm.deb
-Size: 23660
-MD5sum: d95f9e8da30c48fde653c535177f2351
-SHA1: 8eae6c2cf96b7f97ec25cd4d12cb6b9a4d232b3a
-SHA256: e6a33323ed4961b6093a33a0fb9c5ce1210303b40a31c88641694a7459765932
+Size: 23692
+MD5sum: 341e1029bec6fe502e28b0d24fdef1c7
+SHA1: 446e30dd61f932de9ddce298a9c1495b0660fb82
+SHA256: 5fd729c542fae40673eb62d9ec711beefc1631abba0c9467240e8dd306d00e7d
 Section: Respring Logo
 Description: I like the logo, and the brand, that's why I made this.  You need MakeRespringsGreatAgain and Anemone(to apply it) for this to work!
 Author: 19card <19cardtweaks@gmail.com>
+Depiction: https://19card.github.io/repo/depictions/Respring/Ziptiez/depic.html
 Name: Ziptiez Respring Logo
 
 Package: com.19card.ziptiezzeppelinlogo
@@ -479,34 +501,36 @@ Description: I doubt anyone on my repo likes cars.  This is just a car culture a
 Author: 19card <19cardtweaks@gmail.com>
 Name: Ziptiez Zeppelin Logo
 
+Package: com.cryptedbytes.folderbackgroundbegone
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CryptedBytes
+Installed-Size: 117
+Depends: mobilesubstrate
+Filename: ./debs/com.cryptedbytes.folderbackgroundbegone_1.0_iphoneos-arm.deb
+Size: 3176
+MD5sum: c0f0941c398f9edbaf41c3a57dd54181
+SHA1: 440f36443bdfa72171ff76d91c74e2f468c6eaa1
+SHA256: 4718ce8dcb5c3127f154dddcf14f1ec07d4ef204bf338df01bc1a6195fdcb9b7
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: CryptedBytes
+Depiction: https://19card.github.io/repo/depictions/Tweaks/FolderBackgroundBeGone/depic.html
+Name: folderbackgroundbegone
+
 Package: com.novinha.jellyfishxenhtml
 Version: 2.0.3
 Architecture: iphoneos-arm
 Maintainer: Novinha
 Filename: ./debs/com.novinha.jellyfishxenhtml_2.0.3_iphoneos-arm.deb
-Size: 310804
-MD5sum: cfddc1ef5818b5810ded886976dca430
-SHA1: 851907befc13a1baa6561268aa38d11ac519a7b7
-SHA256: 65266fae1debcd75e77083c923d6b1d1f57558967c1f51afccb720682ebde8fe
+Size: 310876
+MD5sum: 879449fbc3a9d42ed34142bceec52999
+SHA1: 9ce746ed67996be8a3fa01b39d68d75b7e968f08
+SHA256: 2e5194ab3999214fe2c7b6f2acc635bd9ec1310cde3528b0449cf6bc2498afd7
 Section: Themes
 Description: This is not Jellyfish. Credits to Evelyn (ev_ynw) for the HTML base template.
 Author: Novinha
-Name: NotJellyfish
-Sileodepiction: https://ocean.webjungle.ch/dep/notjellyfish.js
-
-Package: com.novinha.jellyfishxenhtml
-Version: 2.0.4
-Architecture: iphoneos-arm
-Maintainer: Novinha
-Filename: ./debs/com.novinha.jellyfishxenhtml_2.0.4_iphoneos-arm.deb
-Size: 310804
-MD5sum: a032e60b6f4cc834225b158cfe468baa
-SHA1: 3b463c7efb161313c752155b1bb547533d11821d
-SHA256: 47beef7be48a0287453af873e684155af040591c9d57423e2a8fbaf4b2197bb5
-Section: Themes
-Description: This is not Jellyfish. Credits to Evelyn (ev_ynw) for the HTML base template.
-Author: Novinha
-Depiction: https://19card.github.io/repo/depictions/NotJellyfish/depic.html
+Depiction: https://19card.github.io/repo/depictions/Tweaks/NotJellyfish/depic.html
 Name: NotJellyfish
 Sileodepiction: https://ocean.webjungle.ch/dep/notjellyfish.js
 
@@ -516,13 +540,14 @@ Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.wizages.bae, com.anemonetheming.anemone
 Filename: ./debs/com.19card.dogerespringlogo_1.1_iphoneos-arm.deb
-Size: 64048
-MD5sum: 37f0372081f19b750ba2673395605a8e
-SHA1: 9527c4032a5220b209dab09840e755624078db1a
-SHA256: 6d9260884f3bc352a76739b5fa9b24ee548adfd6a47715da61f1f9efc4dcb6ae
+Size: 64084
+MD5sum: 8dec3dc7a48fc75b148b8177a5099da7
+SHA1: dbf347807200214ad2bb27f0ce2b0dd8b07901c0
+SHA256: db0204a693a330237d1498a2e9fbc00ca052489106cbf8e39b0f3d1bb50ca9dc
 Section: Respring Logo
 Description: Do you like Doges?  Then this is the respring logo for you!
 Author: 19card <19cardtweaks@gmail.com>
+Depiction: https://19card.github.io/repo/depictions/Respring/Doge/depic.html
 Name: Doge Respring Logo
 
 Package: com.yourepo.19card.thonkrespringlogo
@@ -531,12 +556,13 @@ Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.wizages.bae, com.anemonetheming.anemone, com.wizages.springchanger
 Filename: ./debs/com.19card.thonkrespringlogo_1.1_iphoneos-arm.deb
-Size: 30204
-MD5sum: d0374327df05f179c6fff0cb51e4a73c
-SHA1: 58e6b2f3a714c33b8d3b14c5bdcbae8aea930eed
-SHA256: 7ca3888a38591368b6c9e5e56e601447ba58b735b00604998dd56ad6c959fc1b
+Size: 30240
+MD5sum: 3b76259155de25c58360064f292e2385
+SHA1: 03e6ac7e1f9542ad5c90d5a493d501db4da37281
+SHA256: 9ddbfbb4f6abbcd60f81d582e1410a0c4d0b8647404daae117afb4e3d97eeee6
 Section: Respring Logo
 Description: HMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.........    You need MakeRespringsGreatAgain and SpringChanger for this to work!
 Author: 19card <19cardtweaks@gmail.com>
+Depiction: https://19card.github.io/repo/depictions/Respring/Thonk/depic.html
 Name: Thonk Respring Logo
 
