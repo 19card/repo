@@ -4,13 +4,14 @@ Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.alexzielenski.zeppelin
 Filename: ./debs/com.19card.44gravitizeppelin_1.1_iphoneos-arm.deb
-Size: 3878
-MD5sum: 1dc767a49dd0420271692e77a5ba835d
-SHA1: 13331dfd5fe1d1f144056bd915067c020ec05f1d
-SHA256: 2d0e74ab83b4a69d064b47d6b80459c7afed0a1528b0ac917148e175651928e2
+Size: 4020
+MD5sum: dd5e39746f33fd157f1c0cdfd495bf21
+SHA1: 6fb13f4f1f16a5fe2dd4af77e7f2d64cdd38a4e2
+SHA256: d9c1e38673114f0aea9697a966cc521c5ebe688d0b3ad4e7ad1803d6f6781309
 Section: Addons (Zeppelin)
 Description: Know about the startup by two highschool seniors?  Get this logo to show it!  You need Zeppelin for this to work!
 Author: 19card <19cardtweaks@gmail.com>
+Depiction: https://19card.github.io/repo/depictions/Zeppelin/44graviti/depic.html
 Name: 44graviti Zeppelin Logo
 
 Package: com.19card.aperturerespringlogo
@@ -210,13 +211,14 @@ Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.alexzielenski.zeppelin
 Filename: ./debs/com.19card.mazdazeppelinlogo_1.0_iphoneos-arm.deb
-Size: 4680
-MD5sum: 38df9e2859101ae1961fc9977d907007
-SHA1: 70ec794b06b10279144a319dc2ce543694fd456f
-SHA256: 1d5f8b7b68c112b8134a919774e5881e0ab4728895caac61b4334e9bbb86d5e5
+Size: 4828
+MD5sum: fc9b440d7f0c1d763c8e8296ba75265a
+SHA1: 08ccb9b9cc747a3faee0224664365f938fb56439
+SHA256: baed9683c7b382c8e69f7b3a2759835882e017e6911d9c8eceb27427b8249f25
 Section: Addons (Zeppelin)
 Description: This Zeppelin logo matches well with the respring logo!  You need Zeppelin for this to work!
 Author: 19card <19cardtweaks@gmail.com>
+Depiction: https://19card.github.io/repo/depictions/Zeppelin/Classic Mazda/depic.html
 Name: Classic Mazda Zeppelin Logo
 
 Package: com.19card.minionthanosrespringlogo
@@ -321,13 +323,14 @@ Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.alexzielenski.zeppelin
 Filename: ./debs/com.19card.razerzeppelin_1.0_iphoneos-arm.deb
-Size: 2656
-MD5sum: 16fe67471f7a24c96116e3ffa699542a
-SHA1: 2bd1ef176ef8a1c1ace25a28f8bc95f5cf1a6830
-SHA256: 09d7cade1b2199c9c64e6e1c532b5f49b0174b2414fe6fa8d28f54fa19e7a611
+Size: 2824
+MD5sum: 867a25a72611dc2278d8b03da36316e3
+SHA1: fcc0423704d990c8956b855e03947e07d36bf8cf
+SHA256: a1b40fa28fdc306e4a566a77480c65998229560ad5b4da8824e2be8970a9e2ba
 Section: Addons (Zeppelin)
 Description: For all the gamers out there!  You need Zeppelin for this to work!
 Author: 19card <19cardtweaks@gmail.com>
+Depiction: https://19card.github.io/repo/depictions/Zeppelin/Razer/depic.html
 Name: Razer Zeppelin Logo
 
 Package: com.19card.robloxzeppelin
@@ -336,13 +339,14 @@ Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.alexzielenski.zeppelin
 Filename: ./debs/com.19card.robloxzeppelin_1.1_iphoneos-arm.deb
-Size: 2806
-MD5sum: 44232557bf29660177574bf2956e6fbc
-SHA1: b4839bdcc387e2e3db5252c8abf91dfb4a543a0a
-SHA256: 9a7e7da4d05809ce797f640d96adc3bf68a31ff4862e88b46fbfbdd406edd750
+Size: 2972
+MD5sum: 373f517c8ab6ab2f06bb1e9b45cd1927
+SHA1: db4727544e1ef1a6ad388bf7646f0a4b4d4db779
+SHA256: 40652316a27389e5d55f9a957b55cadb2c673213aeaaed570aaccfede9bdd07a
 Section: Addons (Zeppelin)
 Description: Yes, a ROBLOX Zeppelin Logo.  You only get the O though, not the whole word.  You need Zeppelin for this to work!
 Author: 19card <19cardtweaks@gmail.com>
+Depiction: https://19card.github.io/repo/depictions/Zeppelin/Roblox/depic.html
 Name: ROBLOX Zeppelin Logo
 
 Package: com.19card.shrekrespringlogo
@@ -383,13 +387,14 @@ Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.alexzielenski.zeppelin
 Filename: ./debs/com.19card.shrugzeppelinlogo_1.1_iphoneos-arm.deb
-Size: 6174
-MD5sum: a25d68cb66bf567647987ee730c0522c
-SHA1: 152a864c0c0029afec9de35279af00b6ed723ea3
-SHA256: dd42302ce7293137dd1632f89269559770013d85220edebd64ce2f5d5c1c06bd
+Size: 6320
+MD5sum: 5fbe2ddb924b799afb34d7e4e512f7b6
+SHA1: d96295c0abf83e78f6cf2fae3f27ff75a3171104
+SHA256: 2ede4988a6ae093147978272bb1d8d61c671b30d6754e55d13e9fc7d6a515c44
 Section: Addons (Zeppelin)
 Description: ¯\_(ツ)_/¯  You need Zeppelin for this to work!
 Author: 19card <19cardtweaks@gmail.com>
+Depiction: https://19card.github.io/repo/depictions/Zeppelin/Shrug/depic.html
 Name: Shrug Zeppelin Logo
 
 Package: com.19card.speedhunterszeppelin
@@ -398,13 +403,14 @@ Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.alexzielenski.zeppelin
 Filename: ./debs/com.19card.speedhunterszeppelin_1.0_iphoneos-arm.deb
-Size: 6012
-MD5sum: 0a76fc1c358102607daf69cf87dd18e6
-SHA1: 44324691724b1a6c52c815eff6bf5ddb3a4f1dec
-SHA256: 1d425470ef197d571d10887bc0e55def1bddb93fe1d149642a94bcf3468626a2
+Size: 6180
+MD5sum: ca798dad6fb590feb2a84959ff99ddcf
+SHA1: ad73e0c0452aa3ce3e70528e95aba7c03cc99091
+SHA256: ff00094462f617d8c7a31cd4ec4409f9300bd52ce09344edc9ab8a41fec7a2d5
 Section: Addons (Zeppelin)
 Description: Are you a speedhunter in need of a Zeppelin logo to match your passion?  Here ya go!  You need Zeppelin for this to work!
 Author: 19card <19cardtweaks@gmail.com>
+Depiction: https://19card.github.io/repo/depictions/Zeppelin/Speedhunters/depic.html
 Name: Speedhunters Zeppelin Logo
 
 Package: com.19card.spinnerrespringlogo
@@ -429,13 +435,14 @@ Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.alexzielenski.zeppelin
 Filename: ./debs/com.19card.stancenationzeppelin_1.4_iphoneos-arm.deb
-Size: 4058
-MD5sum: ab7eaa10726421c8b5280caf55f5d7ce
-SHA1: 1f96ea867c72d1a7c043673f40fa8e1abec4146b
-SHA256: bc1d453688f5b2c7b6b846c25b02c6b6a373e2a061f7dd1e35248ab079947361
+Size: 4216
+MD5sum: c0b9f5100af6f4e51683333e05e1d27d
+SHA1: 56af58a822a79349505532ad733e395fdb17f0de
+SHA256: 65a940c76081b6bce7e6d1ab265a775a6e80621454e0649a3879c6f380a15cdb
 Section: Addons (Zeppelin)
 Description: Like the stance life?  Then get this Zeppelin logo to show it!  You need Zeppelin for this to work!
 Author: 19card <19cardtweaks@gmail.com>
+Depiction: https://19card.github.io/repo/depictions/Zeppelin/Stancenation/depic.html
 Name: StanceNation Zeppelin Logo
 
 Package: com.19card.subarurespringlogo
@@ -492,13 +499,14 @@ Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.alexzielenski.zeppelin
 Filename: ./debs/com.19card.ziptiezzeppelinlogo_1.0_iphoneos-arm.deb
-Size: 3388
-MD5sum: 5c6729f2e2548dfc24a20d81bd7e6e88
-SHA1: 012266ac2d230388561e84a33f3fc55b018ba6a2
-SHA256: c27e7bda47f0e9ac433dc9d92db216debb6a50d4198c45b279ad80c19556d137
+Size: 3540
+MD5sum: 4ccf38455786afd02327150788b943e6
+SHA1: 07a24bd18bab68c3e123276fe4d28854d7f12914
+SHA256: 164117033906a5a0dc1597e035429dec2ae4f6563658147d62073dbcd75e88d9
 Section: Addons (Zeppelin)
 Description: I doubt anyone on my repo likes cars.  This is just a car culture apparel brand.  You need Zeppelin for this to work!
 Author: 19card <19cardtweaks@gmail.com>
+Depiction: https://19card.github.io/repo/depictions/Zeppelin/Ziptiez/depic.html
 Name: Ziptiez Zeppelin Logo
 
 Package: com.cryptedbytes.folderbackgroundbegone
