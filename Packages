@@ -526,6 +526,20 @@ Author: CryptedBytes
 Depiction: https://19card.github.io/repo/depictions/Tweaks/FolderBackgroundBeGone/depic.html
 Name: folderbackgroundbegone
 
+Package: com.novinha.dualsignalbars
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Novinha
+Filename: ./debs/com.novinha.dualsignalbars_1.0.0_iphoneos-arm.deb
+Size: 5444
+MD5sum: 29e73123ec0e98f2fc8a1f3bae460832
+SHA1: 214da0919df2f62dd1d9603bcee88072ff733859
+SHA256: 1fe63a667495a9805b403df37a5d999f66273788226429ec28145c262d762238
+Section: Themes
+Description: Dual Signal Bars for Xeon.
+Author: Novinha
+Name: Dual Signal Bars
+
 Package: com.novinha.jellyfishxenhtml
 Version: 2.0.3
 Architecture: iphoneos-arm
