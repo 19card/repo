@@ -530,11 +530,12 @@ Package: com.novinha.dualsignalbars
 Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: Novinha
+Depends: com.peterdev.xeonbeta
 Filename: ./debs/com.novinha.dualsignalbars_1.0.0_iphoneos-arm.deb
-Size: 5444
-MD5sum: 29e73123ec0e98f2fc8a1f3bae460832
-SHA1: 214da0919df2f62dd1d9603bcee88072ff733859
-SHA256: 1fe63a667495a9805b403df37a5d999f66273788226429ec28145c262d762238
+Size: 5472
+MD5sum: d7bc891b55b79aced721d52a0f430209
+SHA1: bcc053426be5f57c3218b2c1a0951030b8169cdb
+SHA256: 14f3abef1bd0c944f6fe4c79347ffb18eeaba51e14943ea49d7ea409b5228610
 Section: Themes
 Description: Dual Signal Bars for Xeon.
 Author: Novinha
