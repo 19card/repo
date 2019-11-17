@@ -1,0 +1,11 @@
+Package: com.19card.idlerszeppelin
+Name: Idlers Zeppelin Logo
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Car guys will know what this is.  You need Zeppelin for this to work!
+Depiction: https://19card.github.io/repo/depictions/Zeppelin/Classic Mazda/depic.html
+Author: 19card <19cardtweaks@gmail.com>
+Section: Addons (Zeppelin)
+Depends: com.alexzielenski.zeppelin
+Maintainer: 19card <19cardtweaks@gmail.com>
+
