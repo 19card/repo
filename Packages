@@ -258,6 +258,22 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.alexzielenski.zeppelin
+Filename: ./debs/com.19card.nissinzeppelinlogo_1.1_iphoneos-arm.deb
+Size: 6704
+MD5sum: 833f3deb62de113a825c71a4fcd4cfb3
+SHA1: f9e3fd27dce719e8786444def7e002182ed156bc
+SHA256: dba9b75b611b67e5da0f58740f1621f26c42249b46db8c544cd9717c2ec8837b
+Section: Addons (Zeppelin)
+Description: Instant soup!  You need Zeppelin for this to work!
+Author: 19card <19cardtweaks@gmail.com>
+Depiction: https://19card.github.io/repo/depictions/Zeppelin/Classic Mazda/depic.html
+Name: Nissin Zeppelin Logo
+
+Package: com.19card.nissinzeppelin
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: 19card <19cardtweaks@gmail.com>
+Depends: com.alexzielenski.zeppelin
 Filename: ./debs/com.19card.nissinzeppelinlogo_1.0_iphoneos-arm.deb
 Size: 4244
 MD5sum: 1e3e138abc8eb642595768a81cc99171
