@@ -190,15 +190,15 @@ Depiction: https://19card.github.io/repo/depictions/Respring/Howard_Alien/depic.
 Name: Howard the Alien Respring Logo
 
 Package: com.19card.idlerszeppelin
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: 19card <19cardtweaks@gmail.com>
 Depends: com.alexzielenski.zeppelin
-Filename: ./debs/com.19card.idlerszeppelinlogo_1.0_iphoneos-arm.deb
-Size: 3536
-MD5sum: ee45afb49b5b9a7d8f27e64f9f4581e2
-SHA1: 7144d3cc927e019ebae5087929d1889128925cfd
-SHA256: d6a857a1a7375d0d110679375c3a77982e53483ca120303a15194736f5596ce1
+Filename: ./debs/com.19card.idlerszeppelinlogo_1.1_iphoneos-arm.deb
+Size: 3308
+MD5sum: 48fae65d89a849ea2ebd45ee72da84e5
+SHA1: 931e421e810f36e49d48d16bbcbce40b5b23645b
+SHA256: 28a38dbdc188e764603f9ac18e3fd35f7825bdbaa481d7c09b289ca37696da9d
 Section: Addons (Zeppelin)
 Description: Car guys will know what this is.  You need Zeppelin for this to work!
 Author: 19card <19cardtweaks@gmail.com>
